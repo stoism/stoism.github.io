@@ -2,3 +2,4 @@ theme: jekyll-theme-CAYMAN
 remote_theme: CAYMAN
 title: Stoism
 description: Bright!
+show_downloads: true
