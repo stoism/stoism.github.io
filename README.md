@@ -1,5 +1,6 @@
-# stoism.github.io
+# STOISM
 Stoism website
+Welcome!
 
 
 
