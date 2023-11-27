@@ -17,4 +17,4 @@ Welcome!
 
 
 By @stoism
-<img src="test.png" width="16"> [About](gh-pages/about.md)
+[<img src="gh-pages/source/github16.png" width="16">(gh-pages/about.md)] [About](gh-pages/about.md)
