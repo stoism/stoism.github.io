@@ -1,5 +1,5 @@
-theme: jekyll-theme-CAYMAN
-remote_theme: CAYMAN
+theme: jekyll-theme-MINIMAL
+remote_theme: MINIMAL
 title: Stoism
 description: Bright!
 show_downloads: false
