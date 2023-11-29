@@ -3,7 +3,7 @@ Stoism website
 Welcome!
 
 # DANH SÁCH BÀI VIẾT
-* Tiếng Việt Miền Nam
+* [Tiếng Việt Miền Nam](pages/231129/TiengVietMienNam.html)
 
 
 
