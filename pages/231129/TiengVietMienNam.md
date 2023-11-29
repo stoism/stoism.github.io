@@ -4,21 +4,13 @@ Tiếng Việt mang bản sắc của người miền Nam Việt Nam, Sài Gòn.
 
 ## 1  Cách gọi sự vật giữa các miền
 Phân biệt cách gọi sự vật giữa các miền:
-Miền Nam | Miền Bắc | Ghi chú
-ff | r | rr
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">head1</th>
-      <th style="text-align: left">head two</th>
-      <th style="text-align: left">three</th>
+      <th style="text-align: center">Miền Nam</th>
+      <th style="text-align: center">Miền Bắc</th>
+      <th style="text-align: center">Ghi chú</th>
     </tr>
   </thead>
   <tbody>
