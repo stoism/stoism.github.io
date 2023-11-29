@@ -15,6 +15,11 @@ Phân biệt cách gọi sự vật giữa các miền:
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">bảo đảm*</td>
+      <td style="text-align: left">bảo hành (đảm bảo)</td>
+      <td style="text-align: left">*Từ Hán Việt (đời Đường)</td>
+    </tr>
+    <tr>
       <td style="text-align: left">ok</td>
       <td style="text-align: left">good swedish fish</td>
       <td style="text-align: left">nice</td>
