@@ -1,6 +1,11 @@
 # TIẾNG VIỆT MIỀN NAM
 
+Tiếng Việt mang bản sắc của người miền Nam Việt Nam, Sài Gòn.
 
+## 1  Cách gọi sự vật giữa các miền
+Phân biệt cách gọi sự vật giữa các miền:
+Miền Nam | Miền Bắc | Ghi chú
+ff | r | rr
 
 
 ## Tổng hợp
