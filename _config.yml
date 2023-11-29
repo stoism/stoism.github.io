@@ -2,6 +2,6 @@ theme: jekyll-theme-MINIMAL
 remote_theme: MINIMAL
 title: Stoism
 description: Bright!
-logo: /gh-pages/source/logo.png
+logo: /pages/source/logo.png
 show_downloads: false
 google_analytics:
