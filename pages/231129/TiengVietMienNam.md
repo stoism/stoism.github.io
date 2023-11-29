@@ -20,14 +20,19 @@ Phân biệt cách gọi sự vật giữa các miền:
       <td style="text-align: left">*Từ Hán Việt (đời Đường)</td>
     </tr>
     <tr>
-      <td style="text-align: left">ok</td>
-      <td style="text-align: left">good swedish fish</td>
-      <td style="text-align: left">nice</td>
+      <td style="text-align: left">bắp</td>
+      <td style="text-align: left">ngô</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
-      <td style="text-align: left">out of stock</td>
-      <td style="text-align: left">good and plenty</td>
-      <td style="text-align: left">nice</td>
+      <td style="text-align: left">biểu ngữ*</td>
+      <td style="text-align: left">băng rôn</td>
+      <td style="text-align: left">*Từ Hán Việt (đời Đường)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">bích chương*</td>
+      <td style="text-align: left">...</td>
+      <td style="text-align: left">Giấy dán tường, *từ Hán Việt (đời Đường)</td>
     </tr>
     <tr>
       <td style="text-align: left">ok</td>
