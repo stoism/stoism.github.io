@@ -4,6 +4,12 @@
 @import 'jekyll-theme-minimal';
 
 .wrapper {
-  width:300px;
+  width:1000px;
   margin:0 auto;
+}
+
+section {
+  width:300px;
+  float:right;
+  padding-bottom:50px;
 }
