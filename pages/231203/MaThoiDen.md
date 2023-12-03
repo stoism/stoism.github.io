@@ -2,7 +2,9 @@
 
 ## Vị trí các cuộc phiêu lưu phỏng theo truyện
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1oB1_Y--YLIn2daILexM39iQUyBsQj50&ehbc=2E312F" width="500" height="480"></iframe>
-...
+[by Google Maps]([/pages/about.html](https://www.google.com/maps/d/u/0/edit?mid=1oB1_Y--YLIn2daILexM39iQUyBsQj50&usp=sharing))
+
+
 
 ## Phần 1, tập 1: Thành Cổ Tinh Tuyệt
 [<img src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" alt="book cover" width="300" height="465">](/pages/about.html)
