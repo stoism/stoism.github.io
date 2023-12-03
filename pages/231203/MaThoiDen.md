@@ -15,4 +15,4 @@
 
 
 
-[<img src="pages/source/logo16.png" width="16">](/pages/about.html) [_](/pages/about.html)
+[<img src="/pages/source/logo16.png" width="16">](/pages/about.html) [_](/pages/about.html)
