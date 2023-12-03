@@ -20,9 +20,9 @@
 * Sửa đổi lần cuối: 03/12/2023
 * Tải về:
 <ul class="downloads">
- <li><a href="https://mega.nz/file/ApInjCSY#3joCSQ88lEwj1EQVGlbNNKLMu_V7nonlpfaJ4p4TQE4" target="_blank" rel="noopener noreferrer">Download <strong>DOCX File</strong></a></li>
- <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
- <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+ <li><a href="https://mega.nz/file/ApInjCSY#3joCSQ88lEwj1EQVGlbNNKLMu_V7nonlpfaJ4p4TQE4" target="_blank" rel="noopener noreferrer">Download <strong>DOCX</strong></a></li>
+ <li><a href="" target="_blank" rel="noopener noreferrer">Download <strong>PDF</strong></a></li>
+ <li><a href="" target="_blank" rel="noopener noreferrer">Download <strong>EPUB</strong></a></li>
 </ul>
 
 
