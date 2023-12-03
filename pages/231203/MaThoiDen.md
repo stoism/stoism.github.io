@@ -5,4 +5,14 @@
 ...
 
 ## Phần 1, tập 1: Thành Cổ Tinh Tuyệt
-<iframe src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" width="200" height="310"></iframe>
+[<img src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" width="200" height="310>](/pages/about.html)
+
+
+
+
+
+
+
+
+
+[<img src="pages/source/logo16.png" width="16">](/pages/about.html) [_](/pages/about.html)
