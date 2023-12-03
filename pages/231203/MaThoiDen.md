@@ -2,7 +2,7 @@
 
 ## Vị trí các cuộc phiêu lưu phỏng theo truyện
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1oB1_Y--YLIn2daILexM39iQUyBsQj50&ehbc=2E312F" width="500" height="480"></iframe>
-<a href="https://www.google.com/maps/d/u/0/edit?mid=1oB1_Y--YLIn2daILexM39iQUyBsQj50&usp=sharing" target="_blank" rel="noopener noreferrer"><p style="font-size:10px;">open Google Maps</p></a>
+<p style="font-size:10px;"><a href="https://www.google.com/maps/d/u/0/edit?mid=1oB1_Y--YLIn2daILexM39iQUyBsQj50&usp=sharing" target="_blank" rel="noopener noreferrer">open Google Maps</a></p>
 
 
 ## Phần 1, tập 1: Thành Cổ Tinh Tuyệt
