@@ -5,7 +5,7 @@
 ...
 
 ## Phần 1, tập 1: Thành Cổ Tinh Tuyệt
-[<img src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" width="200" height="310>](/pages/about.html)
+[<img src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" width="300" height="465>](/pages/about.html)
 
 
 
