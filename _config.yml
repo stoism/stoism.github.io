@@ -1,5 +1,5 @@
-theme: jekyll-theme-MINIMAL
-remote_theme: MINIMAL
+theme: jekyll-theme-leap-day
+remote_theme: leap-day
 title: Stoism
 description: Bright!
 logo: /pages/source/logo.png
