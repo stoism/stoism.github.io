@@ -20,9 +20,9 @@
 * Sửa đổi lần cuối: 03/12/2023
 * Tải về:
 <ul class="downloads">
- <li><a href="https://mega.nz/file/ApInjCSY#3joCSQ88lEwj1EQVGlbNNKLMu_V7nonlpfaJ4p4TQE4" target="_blank" rel="noopener noreferrer">Download <strong>DOCX</strong></a></li>
+ <li><a href="https://mega.nz/file/ApInjCSY#3joCSQ88lEwj1EQVGlbNNKLMu_V7nonlpfaJ4p4TQE4" target="_blank" rel="noopener noreferrer">Download Mega<strong>DOCX</strong></a></li>
  <li><a href="" target="_blank" rel="noopener noreferrer">Download <strong>PDF</strong></a></li>
- <li><a href="" target="_blank" rel="noopener noreferrer">Download <strong>EPUB</strong></a></li>
+ <li><a href="https://mega.nz/file/8w402aKB#Se-vDGOUEtSHDO7D5OHGOXANn9NW4XlQ8i4YffAqliM" target="_blank" rel="noopener noreferrer">Download Mega<strong>EPUB</strong></a></li>
 </ul>
 
 
