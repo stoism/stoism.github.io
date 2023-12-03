@@ -5,7 +5,8 @@
 ...
 
 ## Phần 1, tập 1: Thành Cổ Tinh Tuyệt
-[<img src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" width="300" height="465">](/pages/about.html) fgdrtw
+[<img src="/pages/231203/cover_MTD-A1_ThanhCoTinhTuyet.png" alt="book cover" width="300" height="465">](/pages/about.html)
+
 Tên ebook: MTĐ-A1 - Thành Cổ Tinh Tuyệt
 Tác giả: Thiên Hạ Bá Xướng
 Dịch giả: Lục Hương
