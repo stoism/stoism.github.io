@@ -5,9 +5,10 @@ Welcome!
 # DANH SÁCH BÀI VIẾT
 * [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](pages/231203/MaThoiDen.html)
 * [Phương Ngữ Miền Nam](/phuongngumiennam.html)
-* [Trải nghiệm linux](/pages/trainghiemlinux.html)
+* [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
+* [Trải nghiệm Linux](/pages/trainghiemlinux.html)
 
-
+# DANH SÁCH BLOG KHÁC
 
 
 
