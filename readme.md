@@ -1,3 +1,9 @@
+---
+layout: page
+title: Readme
+permalink: /readme/ 
+---
+
 # Xin chào
 Stoism website
 Welcome!
