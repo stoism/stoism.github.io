@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readme
+title: stoism
 permalink: /readme/ 
 ---
 
