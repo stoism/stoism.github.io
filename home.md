@@ -1,28 +1,3 @@
-# Xin chào
-Stoism website
-Welcome!
-
-# DANH SÁCH BÀI VIẾT
-* [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](pages/231203/MaThoiDen.html)
-* [Phương Ngữ Miền Nam](/phuongngumiennam.html)
-* [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
-* [Trải nghiệm Linux](/pages/trainghiemlinux.html)
-
-# DANH SÁCH BLOG KHÁC
-
-
-
-
-
-
-
-
+# [Bấm vào đây để vào Trang chủ](/readme)
 
 <p>By @stoism</p>
-<p>
-  <a href="/pages/about.html"><img src="pages/source/logo16.png" width="16" /></a> <a href="/pages/about.html">About</a>
-  &mdash;
-  <a href="https://github.com/stoism/stoism.github.io" target="_blank" rel="noopener noreferrer">Project</a> 
-  &mdash;
-  <a href="https://pages.github.com/themes" target="_blank" rel="noopener noreferrer">Theme</a>
-</p>
