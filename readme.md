@@ -1,6 +1,6 @@
 ---
-layout: page
-title: stoism
+layout: default
+title: {{ page.title }}
 permalink: /readme/ 
 ---
 
