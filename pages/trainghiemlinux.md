@@ -1,73 +1,49 @@
-# Trải nghiệm Linux
+# Trải nghiệm Linux  
 
-## Lỗi lúc cài đặt
-
-debian-12.5.0-amd64-DVD-1.iso
-
-linux-lite-6.6-64bit.iso
-
-inuxmint-21.3-cinnamon-64bit.iso
-
-lubuntu-22.04.4-desktop-amd64.iso
-
-ubuntu-22.04.4-desktop-amd64 (dkpg)
-
-ubuntucinnamon-23.10-desktop-amd64.iso (cài được, hết 100GB ổ cứng không kịp xóa cache)
-
-xubuntu-22.04.4-desktop-amd64.iso (cài đặt quá chậm, đứng hình lúc chọn time zone)
-
-Xài tốt, hơi lag
-
-kubuntu-22.04.4-desktop-amd64.iso
-
-Linux Kubuntu
+## Lỗi lúc cài đặt  
+debian-12.5.0-amd64-DVD-1.iso  
+linux-lite-6.6-64bit.iso  
+inuxmint-21.3-cinnamon-64bit.iso  
+lubuntu-22.04.4-desktop-amd64.iso  
+ubuntu-22.04.4-desktop-amd64 (dkpg)  
+ubuntucinnamon-23.10-desktop-amd64.iso (cài được, hết 100GB ổ cứng không kịp xóa cache)  
+xubuntu-22.04.4-desktop-amd64.iso (cài đặt quá chậm, đứng hình lúc chọn time zone)  
+Xài tốt, hơi lag  
+kubuntu-22.04.4-desktop-amd64.iso  
+Linux Kubuntu  
 
 
-## 1  THAO TÁC ==============================
-
-Hien file an Ctrl + H
-
-Copy paste Ctrl + Shift  + C / V
+## 1  THAO TÁC  
+Hien file an Ctrl + H  
+Copy paste Ctrl + Shift  + C / V  
 
 
+## 2  TẮT SYSTEM LOG  ĐỂ GIẢM DUNG LƯỢNG Ổ CỨNG  
+```service rsyslog stop```  
+```systemctl disable rsyslog```  
+```sudo truncate -s 0 /var/log/syslog```  
 
-## 2  TẮT SYSTEM LOG  ĐỂ GIẢM DUNG LƯỢNG Ổ CỨNG ===========================
-
-```service rsyslog stop```
-
-```systemctl disable rsyslog```
-
-```sudo truncate -s 0 /var/log/syslog```
-
-Cài đặt STACER để xóa ngay cache vừa cài đặt
-
-```sudo add-apt-repository ppa:oguzhaninan/stacer -y```
-
-```sudo apt update```
-
-```sudo apt install stacer -y```
-
-```sudo apt update```
-
-```sudo apt -y install stacer```
+Cài đặt STACER để xóa ngay cache vừa cài đặt  
+```sudo add-apt-repository ppa:oguzhaninan/stacer -y```  
+```sudo apt update```  
+```sudo apt install stacer -y```  
+```sudo apt update```  
+```sudo apt -y install stacer```  
 
 
+## TẮT LINIX SỬA THỜI GIAN BIOS  
+```sudo timedatectl set-local-rtc 1```  
+NTP time sync:  
+```sudo apt-get update && sudo apt-get upgrade``` # For fix bug  
+```sudo apt install -f``` Thử xóa soft broken   
+```sudo apt install ntp -y```   
+Copy file ntp.conf vào /etc/ntp.conf   
+```systemctl enable ntp.service```  
+```systemctl restart ntp.service```  
+```systemctl status ntp.service``` # For check  
 
 
-0 TẮT LINIX SỬA THỜI GIAN BIOS  ============================
-sudo timedatectl set-local-rtc 1
-
-NTP time sync:
-sudo apt-get update && sudo apt-get upgrade # For fix bug
-sudo apt install -f #Thử xóa soft broken
-sudo apt install ntp -y
-Copy file ntp.conf vào /etc/ntp.conf
-systemctl enable ntp.service
-systemctl restart ntp.service
-systemctl status ntp.service # For check
-
-
-FLATHUB ===========================================
+## FLATHUB  
 sudo apt install flatpak
 sudo apt install software-properties-common -y
 sudo add-apt-repository ppa:flatpak/stable (skip if error)
@@ -111,7 +87,7 @@ flatpak uninstall --delete-data com.google.AndroidStudio -y
 
 
 
-3  CÀI SOFTWARE CENTER ====================================
+## 3  CÀI SOFTWARE CENTER  
 Cai software center
 https://linuxconfig.org/gui-software-installers-for-kali-linux
 
@@ -138,13 +114,13 @@ Done.
 
 
 
-3.1  CÀI GÕ TIẾNG VIỆT (UBUNTU) ====================================
+### 3.1  CÀI GÕ TIẾNG VIỆT (UBUNTU)  
 sudo apt install ibus-unikey
 ibus restart
 ibus-setup
 
 
-3.1  CÀI GÕ TIẾNG VIỆT ====================================
+### 3.1  CÀI GÕ TIẾNG VIỆT  
 Kali Linux Live: Chạy Fcitx để cài Bamboo
 (https://debian.pkgs.org/12/debian-main-arm64/fcitx5-bamboo_1.0.2-1_arm64.deb.html)
 sudo apt-get update
@@ -162,7 +138,7 @@ git clone https://github.com/BambooEngine/ibus-bamboo.git
 cd ibus-bamboo
 sudo make install
 
-3.2 CÀI GÕ TIẾNG VIỆT ====================================
+### 3.2 CÀI GÕ TIẾNG VIỆT  
 (https://tinhte.vn/thread/fix-loi-khi-cai-dat-va-su-dung-bo-go-tieng-viet-ibus-bamboo-tren-moi-truong-kde-plasma-desktop.3131791)
 
 Fix Lỗi Khi Cài Đặt Và Sử Dụng Bộ Gõ Tiếng Việt Ibus-Bamboo Trên Môi Trường KDE Plasma Desktop
@@ -203,7 +179,7 @@ Lưu ý: Khi bị lỗi gạch chân hoặc nhảy chữ, dùng Shift + ~ để 
 
 
 
-PULSE AUDIO: ENABLE FRONT 3.5 AUDIO JACK ===========================================
+### PULSE AUDIO: ENABLE FRONT 3.5 AUDIO JACK  
 /// SAI
 sudo apt install git -y
 git clone git://anongit.freedesktop.org/pulseaudio/pulseaudio
@@ -223,7 +199,7 @@ Select Port - Headphones (unplugged).
 Done.
 
 
-SURFSHARK ===========================================
+### SURFSHARK  
 sudo snap install curl 
 curl -f https://downloads.surfshark.com/linux/debian-install.sh --output surfshark-install.sh #gets the installation script
 cat surfshark-install.sh #shows script's content
@@ -231,28 +207,27 @@ sh surfshark-install.sh #installs surfshark
 Lỗi thì tách ra chạy riêng: apt-get install -y surfshark
 
 
-UBUNTU: TRÌNH CHIẾU LÊN TV ===========================
+### UBUNTU: TRÌNH CHIẾU LÊN TV  
 Cài app "GNOME Network Display"
 Cài add onon âm thanh (https://gstreamer.freedesktop.org/documentation/installing/on-linux.html?gi-language=c), copy nguyên đoạn code
 apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-alsa gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-qt5 gstreamer1.0-pulseaudio
 
 
 
-UBUNTU: THÊM TÙY CHỌN "ADD TO DESKTOP" ===========================
+### UBUNTU: THÊM TÙY CHỌN "ADD TO DESKTOP"  
 https://ubuntuhandbook.org/index.php/2020/05/shortcut-desktop-ubuntu-20-04/
 sudo apt install gnome-shell-extension-manager
 Tìm app "extension" -> chọn Browse -> tìm từ "add to desktop" -> bấm install
 
 
-UBUNTU: CHUYỂN TOP PANEL XUỐNG DƯỚI CÙNG =============================
+### UBUNTU: CHUYỂN TOP PANEL XUỐNG DƯỚI CÙNG  
 (https://extensions.gnome.org/extension/949/bottompanel/)
 (https://github.com/Thoma5/gnome-shell-extension-bottompanel)
 git clone https://github.com/Thoma5/gnome-shell-extension-bottompanel.git
 cp -r gnome-shell-extension-bottompanel ~/.local/share/gnome-shell/extensions/bottompanel@tmoer93
 
 
-WAYDROID
-===========================================
+### WAYDROID  
 Link: https://docs.waydro.id/usage/install-on-desktops
 sudo apt install curl ca-certificates -y
 curl -s https://repo.waydro.id | sudo bash
