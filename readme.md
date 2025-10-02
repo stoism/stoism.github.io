@@ -13,11 +13,7 @@ Welcome!
 * [Phương Ngữ Miền Nam](/phuongngumiennam.html)
 * [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
 * [Trải nghiệm Linux](/pages/trainghiemlinux.html)
-
-# LINK NHANH
-<iframe src="https://raindrop.io/stodrop/stoism-link-60424721" width="800" height="500"></iframe>
-
-
+* [Liên kết khác](https://raindrop.io/stodrop/stoism-link-60424721)
 
 
 
