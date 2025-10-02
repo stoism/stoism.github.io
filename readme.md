@@ -15,7 +15,7 @@ Welcome!
 * [Trải nghiệm Linux](/pages/trainghiemlinux.html)
 
 # LINK NHANH
-<iframe src="https://raindrop.io/stodrop/stoism-link-60424721" width="500" height="800"></iframe>
+<iframe src="https://raindrop.io/stodrop/stoism-link-60424721" width="800" height="500"></iframe>
 
 
 
