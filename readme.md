@@ -4,18 +4,18 @@ title: Home
 permalink: /readme/ 
 ---
 
-# Xin chào
-Stoism website
-Welcome!
+# Xin chào  
+Stoism website  
+Welcome!  
 
-# DANH SÁCH BÀI VIẾT
+# DANH SÁCH BÀI VIẾT  
 * [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](pages/231203/MaThoiDen.html)
 * [Phương Ngữ Miền Nam](/phuongngumiennam.html)
 * [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
 * [Trải nghiệm Linux](/pages/trainghiemlinux.html)
 
-# DANH SÁCH BLOG KHÁC
-
+# LINK NHANH
+<iframe src="https://raindrop.io/stodrop/stoism-link-60424721" width="500" height="800"></iframe>
 
 
 
