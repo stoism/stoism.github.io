@@ -1,40 +1,55 @@
-#Trải nghiệm Linux
+# Trải nghiệm Linux
 
-Lỗi lúc cài đặt
+## Lỗi lúc cài đặt
+
 debian-12.5.0-amd64-DVD-1.iso
+
 linux-lite-6.6-64bit.iso
+
 inuxmint-21.3-cinnamon-64bit.iso
+
 lubuntu-22.04.4-desktop-amd64.iso
+
 ubuntu-22.04.4-desktop-amd64 (dkpg)
+
 ubuntucinnamon-23.10-desktop-amd64.iso (cài được, hết 100GB ổ cứng không kịp xóa cache)
+
 xubuntu-22.04.4-desktop-amd64.iso (cài đặt quá chậm, đứng hình lúc chọn time zone)
 
 Xài tốt, hơi lag
+
 kubuntu-22.04.4-desktop-amd64.iso
 
 Linux Kubuntu
 
 
-1  THAO TÁC ==============================
+## 1  THAO TÁC ==============================
+
 Hien file an Ctrl + H
+
 Copy paste Ctrl + Shift  + C / V
 
 
 
+## 2  TẮT SYSTEM LOG  ĐỂ GIẢM DUNG LƯỢNG Ổ CỨNG ===========================
 
+```service rsyslog stop```
 
-2  TẮT SYSTEM LOG  ĐỂ GIẢM DUNG LƯỢNG Ổ CỨNG ===========================
-service rsyslog stop
-systemctl disable rsyslog
-sudo truncate -s 0 /var/log/syslog
+```systemctl disable rsyslog```
+
+```sudo truncate -s 0 /var/log/syslog```
 
 Cài đặt STACER để xóa ngay cache vừa cài đặt
-sudo add-apt-repository ppa:oguzhaninan/stacer -y
-sudo apt update
-sudo apt install stacer -y
 
-sudo apt update
-sudo apt -y install stacer
+```sudo add-apt-repository ppa:oguzhaninan/stacer -y```
+
+```sudo apt update```
+
+```sudo apt install stacer -y```
+
+```sudo apt update```
+
+```sudo apt -y install stacer```
 
 
 
