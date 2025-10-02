@@ -4,6 +4,7 @@
 - Vẫn có thể cài phần mềm ngoài Appstore.
 - Một số phần mềm lớn vẫn có thuốc.
 - Chip (CPU) M1, M2, M3... là chip cấu trúc ARM64, tức nó có thể chạy ứng dụng đơn giản như trên điện thoại. Phần mềm trên máy tính Windows thông thường có thể chạy qua giả lập bằng phần mềm Parallels. Trên Parallels có thể cài Windows 11 ARM, từ Windows 11 ARM chạy các ứng dụng 32bit (x86) và 64 bit (x64). Tuy nhiên, chạy ứng dụng 64 bit làm nặng máy nhất, chạy AutoCAD 2018 64 bit có thể làm CPU nóng đến 90 độ C.
+- Có thể xài chuột và bàn phím không phải của Apple
 - File *.dmg là file nén, khi mở lên, kéo icon ứng dụng vào Application tức là cài app.
 
 ## Thao tác
