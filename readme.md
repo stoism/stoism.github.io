@@ -11,7 +11,7 @@ Welcome!
 # DANH SÁCH BÀI VIẾT  
 * [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](pages/231203/MaThoiDen.html)
 * [Phương Ngữ Miền Nam](/phuongngumiennam.html)
-* [Ma Trận Đỏ](pages/matrando.html)
+* [Ma Trận Đỏ](/pages/matrando.html)
 * [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
 * [Trải nghiệm Linux](/pages/trainghiemlinux.html)
 * [Liên kết khác](https://raindrop.io/stodrop/stoism-link-60424721)
