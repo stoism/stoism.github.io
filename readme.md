@@ -9,7 +9,7 @@ Stoism website
 Welcome!  
 
 # DANH SÁCH BÀI VIẾT  
-* [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](pages/231203/MaThoiDen.html)
+* [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](/pages/231203/MaThoiDen.html)
 * [Phương Ngữ Miền Nam](/phuongngumiennam.html)
 * [Ma Trận Đỏ](/pages/matrando.html)
 * [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
