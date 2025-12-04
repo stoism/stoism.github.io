@@ -1,5 +1,9 @@
 # Trải nghiệm MacOS 15.6  
 
+## Lưu ý
+- Cân nhắc thật kỹ nhu cầu, vì đã mua mày thì phải mua thêm phần mềm bản quyền.
+- Các ứng dụng công việc tại Việt Nam đa số chạy trên Windows, MacOS không chạy được gì nhiều ngoài duyệt web. Có thể cài Windows ARM (bản thiết kế riêng cho dòng chip Apple này) nhưng khi chạy ứng dụng x86, x64 thông thường trên PC dễ gây nóng máy (dễ thấy tiếc).
+
 ## Định nghĩa  
 - Vẫn có thể cài phần mềm ngoài Appstore.  
 - Một số phần mềm lớn vẫn có thuốc.  
