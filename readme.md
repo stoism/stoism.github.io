@@ -13,17 +13,7 @@ Welcome!
 {% if page.path contains 'pages/' %}
 - [{{ page.title | default: page.name }}]({{ page.url }})
 {% endif %}
-{% endfor %}
-
-* [Tip](/pages/tip.html)
-* [Điều hay](/pages/dieuhay.html)
-* [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](/pages/231203/MaThoiDen.html)
-* [Phim hay](/pages/phimhay.html)
-* [Phương Ngữ Miền Nam](/phuongngumiennam.html)
-* [Ma Trận Đỏ](/pages/matrando.html)
-* [Sách hay](/pages/sachhay.html)
-* [Trải nghiệm MacOS](/pages/trainghiemmacos.html)
-* [Trải nghiệm Linux](/pages/trainghiemlinux.html)
+{% endfor %}  
 * [Liên kết khác](https://raindrop.io/stodrop/stoism-link-60424721)
 
 
