@@ -9,6 +9,7 @@ Stoism website
 Welcome!  
 
 # DANH SÁCH BÀI VIẾT  
+* [PHƯƠNG NGHỮ MIỀN NAM](/phuongngumiennam.html)
 {% for page in site.pages %}
 {% if page.path contains 'pages/' %}
 - [{{ page.title | default: page.name }}]({{ page.url }})
