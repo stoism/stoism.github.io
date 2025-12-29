@@ -9,6 +9,12 @@ Stoism website
 Welcome!  
 
 # DANH SÁCH BÀI VIẾT  
+{% for page in site.pages %}
+{% if page.path contains 'pages/' %}
+- [{{ page.title | default: page.name }}]({{ page.url }})
+{% endif %}
+{% endfor %}
+
 * [Tip](/pages/tip.html)
 * [Điều hay](/pages/dieuhay.html)
 * [Ebook: Ma Thổi Đèn - Thiên Hạ Bá Xướng](/pages/231203/MaThoiDen.html)
