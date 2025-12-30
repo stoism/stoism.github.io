@@ -1,4 +1,4 @@
-# Bảng xếp hạng ứng dụng nhắn tin (chat)  
+# Xếp hạng ứng dụng nhắn tin (chat)  
 Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụng. Dựa trên tính năng nổi trội, những hạn chế. Có ghi rõ thời gian đánh giá.
   
 <table>
