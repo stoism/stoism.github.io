@@ -56,4 +56,4 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
 </table>
   
   
-[✎](https://github.com/atzgit/atzgit.github.io/blob/main/pages/xephangchat.md) 
+[✎](https://github.com/stoism/stoism.github.io/blob/main/pages/xephangchat.md) 
