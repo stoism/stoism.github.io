@@ -25,6 +25,8 @@ Bảng xếp hạng các dịch vụ email mà tôi đã sử dụng. Dựa trê
     <tr>
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ap_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> iCloud Mail</strong>: Bảo mật cao, giao diện đơn giản, cho phép tạo 3 email phụ với gói miễn phí. Lãnh đạo bởi Tim Cook, trụ sở tại Hoa Kỳ (31/12/2025).<br>
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_mi_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Outlook</strong>: Bảo mật doanh nghiệp cao. Quảng cáo nhiều. Lãnh đạo bởi Satya Nadella, trụ sở tại Hoa Kỳ (31/12/2025).<br>
       </td>
