@@ -1,5 +1,5 @@
 # Xếp hạng dịch vụ email tốt
-Bảng xếp hạng các dịch vụ email mà tôi đã sử dụng. Dựa trên tính năng nổi trội, những hạn chế. Có ghi rõ thời gian đánh giá.
+Bảng xếp hạng các dịch vụ email mà tôi đã sử dụng. Dựa trên tính năng nổi trội, những hạn chế, tính thực dụng. Có ghi rõ thời gian đánh giá.
   
 <table>
   <thead>
