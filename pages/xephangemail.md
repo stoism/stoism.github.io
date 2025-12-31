@@ -19,19 +19,23 @@ Bảng xếp hạng các dịch vụ email mà tôi đã sử dụng. Dựa trê
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Proton Mail</strong>: mã hóa end-to-end, bảo mật cao, không quảng cáo/quét email. Yếu: gói miễn phí hạn chế (lưu trữ, gửi mail), giao diện ít tính năng hơn Gmail. Lãnh đạ bởi Andy Yen, trụ sở tại Thụy Sĩ. (21/12/2025).<br>
+        <strong> Proton Mail</strong>: mã hóa end-to-end, bảo mật cao, không quảng cáo/quét email. Gói miễn phí hạn chế (lưu trữ, gửi mail), giao diện ít tính năng hơn Gmail. Lãnh đạo bởi Andy Yen, trụ sở tại Thụy Sĩ. (31/12/2025).<br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
-        ...
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_mi_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Outlook</strong>: Bảo mật doanh nghiệp cao. Quảng cáo nhiều. Lãnh đạo bởi Satya Nadella, trụ sở tại Hoa Kỳ (31/12/2025).<br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFA534; color: white; text-align: center; font-weight: bold;">C</td>
       <td>
-       ...
+       <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_gg_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Gmail</strong>: lưu trữ 15GB miễn phí, lọc spam tốt, giao diện mượt. Dữ liệu dùng làm quảng cáo, thiếu E2E encryption, lo ngại riêng tư, app nặng. Lãnh đạo bởi Sundar Pichai, trụ sở tại Hoa Kỳ (31/12/2025).<br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_yh_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Yahoo</strong>: 1TB lưu trữ miễn phí, tích hợp calendar/notes. Quảng cáo nhiều, không riêng tư. Lãnh đạo bởi Jim Lanzone, trụ sở tại Hoa Kỳ (31/12/2025).<br>
       </td>
     </tr>
     <tr>
