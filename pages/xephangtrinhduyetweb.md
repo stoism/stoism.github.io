@@ -1,5 +1,5 @@
 # Xếp hạng trình duyệt web (browser)
-Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa trên tính thực dụng với người dùng phổ thông, bảo mật, tính năng nổi trội và những hạn chế. Điều này có nghĩa dù bảo mật cao nhưng quá khó xài với người dùng phổ thông thì cũng không được đánh giá cao. Có ghi rõ thời gian đánh giá.
+Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu chí xếp hạng chi tiết ở cuối bài.  
   
 <table>
   <thead>
@@ -15,10 +15,10 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
         <!--    S     -->
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/brave/brave-core/master/app/theme/brave/product_logo_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Brave</strong>: Dựa trên Chromium, mã nguồn mở, đồng bộ bằng blockchain, chặn quảng cáo, chống truy vết, hỗ trợ nhiều hệ điều hành như Windows, MacOS, iOS, Android, Linux... Lãnh đạo bởi Brendan Eich, trụ sở tại Hoa Kỳ (01/01/2026).<br><br>
+        <strong> Brave</strong>: Dựa trên Chromium, mã nguồn mở, đồng bộ bằng blockchain, chặn quảng cáo, chống truy vết, hỗ trợ nhiều hệ điều hành như Windows, MacOS, iOS, Android, Linux... Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Waterfox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Waterfox</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, đồng bộ bằng trương mục. Thuộc công ty Vương quốc Anh (không tập trung) (01/01/2026).<br><br>
         <!-- ... -->
       </td>
     </tr>
@@ -28,10 +28,10 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
         <!--    A     -->
          <!-- ... --> 
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Tor</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, hỗ trợ nhiều hệ điều hành. Hơi bất tiện với người dùng phổ thông, mạng Tor chậm, dễ bị web yêu cầu xác nhận người thật. Lãnh đạo bởi Isabela Bagueros, trụ sở tại Hoa Kỳ (01/01/2026).<br><br>
+        <strong> Tor</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, hỗ trợ nhiều hệ điều hành. Hơi bất tiện với người dùng phổ thông, mạng Tor chậm, dễ bị web yêu cầu xác nhận người thật. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Mullvad</strong>: Dựa trên Tor-Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết (không qua mạng Tor). Hơi bất tiện với người dùng phổ thông. Lãnh đạo bởi Isabela Bagueros, trụ sở tại Hoa Kỳ (01/01/2026).<br><br>
+        <strong> Mullvad</strong>: Dựa trên Tor-Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết (không qua mạng Tor). Hơi bất tiện với người dùng phổ thông. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Vivaldi</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
