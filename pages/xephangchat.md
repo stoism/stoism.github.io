@@ -33,7 +33,7 @@ Bảng xếp hạng các ứng dụng nhắn tin (chat) mà tôi đã sử dụn
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_wa_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Whatsapp</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại, đồng bộ kiểu thiết bị chính-phụ. Lãnh đạo bởi Mark Zuckerberg, trụ sở tại Hoa Kỳ (30/12/2025).<br><br>
+        <strong> Whatsapp</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại, đồng bộ kiểu thiết bị chính-phụ. Chính phủ Hoa Kỳ cấm sử dụng do lo ngại bảo mật. Lãnh đạo bởi Mark Zuckerberg, trụ sở tại Hoa Kỳ (30/12/2025).<br><br>
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_vp_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Viber</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại. Lãnh đạo bởi Ofir Eyal, trụ sở tại Luxembourg (30/12/2025).<br><br>
       </td>
