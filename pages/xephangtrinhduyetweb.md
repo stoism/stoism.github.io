@@ -17,7 +17,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
         <img src="https://raw.githubusercontent.com/brave/brave-core/master/app/theme/brave/product_logo_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Brave</strong>: Dựa trên Chromium, mã nguồn mở, đồng bộ bằng blockchain, chặn quảng cáo, chống truy vết, hỗ trợ nhiều hệ điều hành như Windows, MacOS, iOS, Android, Linux... Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_wf_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Waterfox</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, đồng bộ bằng trương mục. Thuộc công ty Anh quốc (không tập trung) (01/01/2026).<br><br>
         <!-- ... -->
       </td>
@@ -27,13 +27,13 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td>
         <!--    A     -->
          <!-- ... --> 
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_to_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Tor</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, hỗ trợ nhiều hệ điều hành. Hơi bất tiện với người dùng phổ thông, mạng Tor chậm, dễ bị web yêu cầu xác nhận người thật. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_mu_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Mullvad</strong>: Dựa trên Tor-Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết (không qua mạng Tor), không chức năng đồng bộ. Hơi bất tiện với người dùng phổ thông. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_vi_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Vivaldi</strong>: Dựa trên Chromium, mã nguồn mở 90%, tuỳ chỉnh cao. Thuộc công ty Na Uy (Norway) (01/01/2026).<br><br>
       </td>
     </tr>
@@ -42,17 +42,17 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td>
         <!--    B     -->
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Safari</strong>: Đáp ứng mọi yêu cầu cơ bản, bảo mật. Không thể sử dụng ngoài hệ sinh thái Apple, ứng dụng có phần lỗi thời. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_sa_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Safari</strong>: Đáp ứng mọi yêu cầu căn bản, bảo mật. Không thể sử dụng ngoài hệ sinh thái Apple, ứng dụng có phần lỗi thời. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Firefox</strong>: Đáp ứng mọi yêu cầu cơ bản. Công ty đã thay đổi chính sách ban đầu, có thể dùng dữ liệu người dùng để quảng cáo. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_ff_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Firefox</strong>: Đáp ứng mọi yêu cầu căn bản. Công ty đã thay đổi chính sách ban đầu, có thể dùng dữ liệu người dùng để quảng cáo. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Edge</strong>: Dựa trên Chromium, đáp ứng mọi yêu cầu cơ bản. Ứng dụng rất nặng, dữ liệu người dùng có thể dùng để quảng cáo. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_ed_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Edge</strong>: Dựa trên Chromium, đáp ứng mọi yêu cầu căn bản. Ứng dụng rất nặng, dữ liệu người dùng có thể dùng để quảng cáo. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Chrome</strong>: Dựa trên Chromium, đáp ứng mọi yêu cầu cơ bản. Ứng dụng rất nặng, dữ liệu người dùng có thể dùng để quảng cáo. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_ch_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Chrome</strong>: Dựa trên Chromium, đáp ứng mọi yêu cầu căn bản. Ứng dụng rất nặng, dữ liệu người dùng có thể dùng để quảng cáo. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
       </td>
     </tr>
@@ -60,16 +60,16 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td style="background-color: #FFA534; color: white; text-align: center; font-weight: bold;">C</td>
       <td>
         <!--    C     -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Opera</strong>: Đáp ứng mọi yêu cầu cơ bản, đặc biệt cho game thủ. Dữ liệu người dùng có thể dùng để quảng cáo, cung cấp cho chính phủ. Thuộc công ty Trung Quốc (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_op_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Opera</strong>: Đáp ứng mọi yêu cầu căn bản, đặc biệt cho game thủ. Dữ liệu người dùng có thể dùng để quảng cáo, cung cấp cho chính phủ. Thuộc công ty Trung Quốc (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FF4545; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
         <!--    D     -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Cốc Cốc</strong>: Đáp ứng mọi yêu cầu cơ bản. Dữ liệu người dùng dùng để quảng cáo, cung cấp cho chính phủ, có nhiều quảng cáo trong trình duyệt. Thuộc công ty Việt Nam (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_cc_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Cốc Cốc</strong>: Đáp ứng mọi yêu cầu căn bản. Dữ liệu người dùng dùng để quảng cáo, cung cấp cho chính phủ, có nhiều quảng cáo trong trình duyệt. Thuộc công ty Việt Nam (01/01/2026).<br><br>
       </td>
     </tr>
   </tbody>
