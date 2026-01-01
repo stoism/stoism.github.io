@@ -18,7 +18,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
         <strong> Brave</strong>: Dựa trên Chromium, mã nguồn mở, đồng bộ bằng blockchain, chặn quảng cáo, chống truy vết, hỗ trợ nhiều hệ điều hành như Windows, MacOS, iOS, Android, Linux... Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Waterfox</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, đồng bộ bằng trương mục. Thuộc công ty Vương quốc Anh (không tập trung) (01/01/2026).<br><br>
+        <strong> Waterfox</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, đồng bộ bằng trương mục. Thuộc công ty Anh quốc (không tập trung) (01/01/2026).<br><br>
         <!-- ... -->
       </td>
     </tr>
@@ -31,9 +31,10 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
         <strong> Tor</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, hỗ trợ nhiều hệ điều hành. Hơi bất tiện với người dùng phổ thông, mạng Tor chậm, dễ bị web yêu cầu xác nhận người thật. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Mullvad</strong>: Dựa trên Tor-Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết (không qua mạng Tor). Hơi bất tiện với người dùng phổ thông. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
+        <strong> Mullvad</strong>: Dựa trên Tor-Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết (không qua mạng Tor), không chức năng đồng bộ. Hơi bất tiện với người dùng phổ thông. Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
+        <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Vivaldi</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Vivaldi</strong>: Dựa trên Chromium, mã nguồn mở 90%, tuỳ chỉnh cao. Thuộc công ty Na Uy (Norway) (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -42,16 +43,16 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
         <!--    B     -->
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Safari</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Safari</strong>: ... . Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Firefox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Firefox</strong>: ... . Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Chrome</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Chrome</strong>: ... . Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Edge</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Edge</strong>: ... . Thuộc công ty Hoa Kỳ (01/01/2026).<br><br>
         <!-- ... -->
       </td>
     </tr>
@@ -60,7 +61,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td>
         <!--    C     -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Opera</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Opera</strong>: ... . Thuộc công ty Trung Quốc (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -68,7 +69,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td>
         <!--    D     -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Cốc Cốc</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Cốc Cốc</strong>: ... . Thuộc công ty Việt Nam (01/01/2026).<br><br>
       </td>
     </tr>
   </tbody>
