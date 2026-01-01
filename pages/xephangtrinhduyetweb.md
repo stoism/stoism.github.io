@@ -13,18 +13,25 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
       <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
       <td>
         <!--    S     -->
+        <!-- ... -->
+        <img src="https://raw.githubusercontent.com/brave/brave-core/master/app/theme/brave/product_logo_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Brave</strong>: Dựa trên Chromium, mã nguồn mở, đồng bộ bằng blockchain, chặn quảng cáo, chống truy vết, hỗ trợ nhiều hệ điều hành như Windows, MacOS, iOS, Android, Linux... Lãnh đạo bởi Brendan Eich, trụ sở tại Hoa Kỳ (01/01/2026).<br><br>
+        <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Brave</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
-         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Tor</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Waterfox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <!-- ... -->
       </td>
     </tr>
     <tr>
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <!--    A     -->
+         <!-- ... --> 
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Waterfox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <strong> Tor</strong>: Dựa trên Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết, hỗ trợ nhiều hệ điều hành. Hơi bất tiện với người dùng phổ thông, mạng Tor chậm, dễ bị web yêu cầu xác nhận người thật. Lãnh đạo bởi Isabela Bagueros, trụ sở tại Hoa Kỳ (01/01/2026).<br><br>
+        <!-- ... -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Mullvad</strong>: Dựa trên Tor-Firefox, mã nguồn mở, cực kỳ bảo mật, chống truy vết (không qua mạng Tor). Hơi bất tiện với người dùng phổ thông. Lãnh đạo bởi Isabela Bagueros, trụ sở tại Hoa Kỳ (01/01/2026).<br><br>
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Vivaldi</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
@@ -63,5 +70,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
 https://favicon.vemetric.com/mail.proton.me?size=64?format=png
 https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_zl_64.png
 -->  
+Kiểm tra bảo mật trình duyệt mỗi tháng tại đây: https://privacytests.org/  
+
   
 [✎](https://github.com/stoism/stoism.github.io/blob/main/pages/xephangtrinhduyetweb.md) 
