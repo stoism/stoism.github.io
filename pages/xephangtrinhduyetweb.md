@@ -1,5 +1,5 @@
 # Xếp hạng trình duyệt web
-Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa trên tính năng nổi trội, những hạn chế, tính thực dụng. Có ghi rõ thời gian đánh giá.
+Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa trên tính thực dụng với người dùng phổ thông, bảo mật, tính năng nổi trội và những hạn chế. Điều này có nghĩa dù bảo mật cao nhưng quá khó xài với người dùng phổ thông thì cũng không được đánh giá cao. Có ghi rõ thời gian đánh giá.
   
 <table>
   <thead>
@@ -12,44 +12,55 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
     <tr>
       <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
       <td>
-        ...
+        <!--    S     -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Brave</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Tor</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
+        <!--    A     -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Proton Mail</strong>: mã hóa end-to-end, bảo mật cao, không quảng cáo/quét email. Gói miễn phí hạn chế (lưu trữ, gửi mail), giao diện ít tính năng hơn Gmail. Lãnh đạo bởi Andy Yen, trụ sở tại Thụy Sĩ. (31/12/2025).<br><br>
+        <strong> Waterfox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Vivaldi</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ap_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> iCloud Mail</strong>: Bảo mật cao, giao diện đơn giản, cho phép tạo 3 email phụ với gói miễn phí. Lãnh đạo bởi Tim Cook, trụ sở tại Hoa Kỳ (31/12/2025).<br><br>
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_mi_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Outlook</strong>: Bảo mật doanh nghiệp cao. Quảng cáo nhiều. Lãnh đạo bởi Satya Nadella, trụ sở tại Hoa Kỳ (31/12/2025).<br><br>
+        <!--    B     -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Firefox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Chrome</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Edge</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFA534; color: white; text-align: center; font-weight: bold;">C</td>
       <td>
-       <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_gg_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Gmail</strong>: lưu trữ 15GB miễn phí, lọc spam tốt, giao diện mượt. Dữ liệu dùng làm quảng cáo, thiếu E2E encryption, lo ngại riêng tư, app nặng. Lãnh đạo bởi Sundar Pichai, trụ sở tại Hoa Kỳ (31/12/2025).<br><br>
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_yh_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Yahoo</strong>: 1TB lưu trữ miễn phí, tích hợp calendar/notes. Quảng cáo nhiều, không riêng tư. Lãnh đạo bởi Jim Lanzone, trụ sở tại Hoa Kỳ (31/12/2025).<br><br>
+        <!--    C     -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Opera</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FF4545; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
-        ...
+        <!--    D     -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Cốc Cốc</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
       </td>
     </tr>
   </tbody>
 </table>  
 <!-- 
-https://favicon.vemetric.com/mail.proton.me?size=48?format=png
+https://favicon.vemetric.com/mail.proton.me?size=64?format=png
 https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_zl_64.png
 -->  
   
