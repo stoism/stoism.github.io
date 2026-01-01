@@ -61,7 +61,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td>
         <!--    C     -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_op_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Opera</strong>: Đáp ứng mọi yêu cầu căn bản, đặc biệt cho game thủ. Dữ liệu người dùng có thể dùng để quảng cáo, cung cấp cho chính phủ. Thuộc công ty Trung Quốc (01/01/2026).<br><br>
+        <strong> Opera</strong>: Dựa trên Chromium, đáp ứng mọi yêu cầu căn bản, đặc biệt cho game thủ. Dữ liệu người dùng có thể dùng để quảng cáo, cung cấp cho chính phủ. Thuộc công ty Trung Quốc (01/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Tiêu ch�
       <td>
         <!--    D     -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_webbs_cc_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Cốc Cốc</strong>: Đáp ứng mọi yêu cầu căn bản. Dữ liệu người dùng dùng để quảng cáo, cung cấp cho chính phủ, có nhiều quảng cáo trong trình duyệt. Thuộc công ty Việt Nam (01/01/2026).<br><br>
+        <strong> Cốc Cốc</strong>: Dựa trên Chromium, đáp ứng mọi yêu cầu căn bản. Dữ liệu người dùng dùng để quảng cáo, cung cấp cho chính phủ, có nhiều quảng cáo trong trình duyệt. Thuộc công ty Việt Nam (01/01/2026).<br><br>
       </td>
     </tr>
   </tbody>
