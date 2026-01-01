@@ -40,12 +40,19 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <!--    B     -->
+        <!-- ... -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Safari</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Firefox</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Chrome</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <!-- ... -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_mail_ptm_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Edge</strong>: ... . Lãnh đạo bởi ..., trụ sở tại ... . (01/01/2026).<br><br>
+        <!-- ... -->
       </td>
     </tr>
     <tr>
