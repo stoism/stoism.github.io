@@ -77,6 +77,12 @@ Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa tr�
 https://favicon.vemetric.com/mail.proton.me?size=64?format=png
 https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_zl_64.png
 -->  
+### Tiêu chí đánh giá
+- Ưu tiên đánh giá dựa trên tính thực dụng.  
+- Ứng dụng bảo mật cực cao nhưng quá khó xài với người dùng phổ thông vẫn có thể không được xếp hạng cao.  
+- Ứng dụng có khả năng thu thập dữ liệu người dùng cho mục đích quảng cáo, huấn luyện AI xếp hạng tối đa hạng B.  
+- Ứng dụng có khả năng cung cấp dữ liệu cho chính phủ xếp hạng tối đa hạng D.  
+
 Kiểm tra bảo mật trình duyệt mỗi tháng tại đây: https://privacytests.org/  
 
   
