@@ -1,4 +1,4 @@
-# Xếp hạng trình duyệt web
+# Xếp hạng trình duyệt web (browser)
 Bảng xếp hạng các trình duyệt web mà tôi đã sử dụng. Dựa trên tính thực dụng với người dùng phổ thông, bảo mật, tính năng nổi trội và những hạn chế. Điều này có nghĩa dù bảo mật cao nhưng quá khó xài với người dùng phổ thông thì cũng không được đánh giá cao. Có ghi rõ thời gian đánh giá.
   
 <table>
