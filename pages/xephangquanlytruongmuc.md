@@ -22,15 +22,21 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_tlg_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Telegram</strong>: Bảo mật cao, lưu tập tin dung lượng lớn, dễ dàng đồng bộ giữa các thiết bị, nhóm lớn, bots, chống kiểm duyệt. Không trụ sở chính (30/12/2025).<br><br>
+        <strong> Proton Pass</strong>: ....<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_tlg_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> 1Password</strong>: ....<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_wa_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Whatsapp</strong>: Bảo mật trung bình, dễ kết nối bằng số điện thoại, đồng bộ kiểu thiết bị chính-phụ. Chính phủ Hoa Kỳ cấm sử dụng do lo ngại bảo mật. Thuộc công ty Hoa Kỳ (30/12/2025).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_ss_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> iCloud Keychain</strong>: ...<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_ss_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Google Password</strong>: ...<br><br>
       </td>
     </tr>
     <tr>
