@@ -14,7 +14,7 @@ Bảng xếp hạng các nhu liệu (phần mềm) VPN mà tôi đã sử dụng
       <td>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_pt_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Proton VPN</strong>: Bảo mật cao, mã nguồn mở, chính sách no-logs, nhiều server, giới hạn 10 thiết bị, có máy chủ miễn phí. Thuộc công ty Thụy Sĩ (Switzerland) (29/01/2026).<br><br>
+        <strong> Proton VPN</strong>: Cực kỳ bảo mật, mã nguồn mở, chính sách no-logs, nhiều server, giới hạn 10 thiết bị, có máy chủ miễn phí. Thuộc công ty Thụy Sĩ (Switzerland) (29/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -29,7 +29,8 @@ Bảng xếp hạng các nhu liệu (phần mềm) VPN mà tôi đã sử dụng
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <!-- App -->
-        ...<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_pt_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Private Internet Access (PIA)</strong>: Bảo mật, không giới hạn thiết bị, không máy chủ miễn phí. Kiểm tra tốc độ tại Việt Nam kết quả không tốt lắm. Thuộc công ty Hoa Kỳ (01/01/2024).<br><br>
       </td>
     </tr>
     <tr>
