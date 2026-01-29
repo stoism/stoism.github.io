@@ -64,6 +64,6 @@ https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_
 - Ứng dụng có khả năng thu thập dữ liệu người dùng cho mục đích quảng cáo, huấn luyện AI, cung cấp cho chính phủ theo một luật nào đó (trừ trường hợp luật có yêu cầu nhưng ứng dụng không thu thập gì để cung cấp) xếp hạng tối đa là B.  
 - Ứng dụng có khả năng cung cấp dữ liệu cho chính phủ (có hơi hướng lạm dụng) xếp hạng tối đa là D.  
   
-⚠️ Lưu ý: Mọi hệ thống đều có lỗ hỗng, nó an toàn cho đến khi không nhưng vậy nữa, hãy cập nhật thông tin từ nhiều nguồn trung lập và sẵn sàng thay đổi khi cần thiết!  
+⚠️ Lưu ý: Mọi hệ thống đều có lỗ hỗng, nó an toàn cho đến khi không như vậy nữa, hãy cập nhật thông tin từ nhiều nguồn trung lập và sẵn sàng thay đổi khi cần thiết!  
   
 [✎](https://github.com/stoism/stoism.github.io/blob/main/pages/xephangchat.md) 
