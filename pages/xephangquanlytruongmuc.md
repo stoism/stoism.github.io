@@ -21,7 +21,7 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_ps_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_pp_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Proton Pass</strong>: ....<br><br>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_1p_64.png" width="48" style="vertical-align: middle;"> 
