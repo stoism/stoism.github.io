@@ -88,7 +88,7 @@ https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_
 Kiểm tra bảo mật trình duyệt mỗi tháng tại đây: [https://privacytests.org](https://privacytests.org)  
 
   
-⚠️ Lưu ý: Mọi hệ thống đều có lỗ hỗng, nó an toàn cho đến khi không nhưng vậy nữa, hãy cập nhật thông tin từ nhiều nguồn trung lập và sẵn sàng thay đổi khi cần thiết!  
+⚠️ Lưu ý: Mọi hệ thống đều có lỗ hỗng, nó an toàn cho đến khi không như vậy nữa, hãy cập nhật thông tin từ nhiều nguồn trung lập và sẵn sàng thay đổi khi cần thiết!  
   
   
 [✎](https://github.com/stoism/stoism.github.io/blob/main/pages/xephangtrinhduyetweb.md) 
