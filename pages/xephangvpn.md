@@ -29,7 +29,7 @@ Bảng xếp hạng các nhu liệu (phần mềm) VPN mà tôi đã sử dụng
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_pt_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_pia_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Private Internet Access (PIA)</strong>: Bảo mật, không giới hạn thiết bị, không máy chủ miễn phí. Kiểm tra tốc độ tại Việt Nam kết quả không tốt lắm. Thuộc công ty Hoa Kỳ (01/01/2024).<br><br>
       </td>
     </tr>
