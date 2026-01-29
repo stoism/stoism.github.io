@@ -14,7 +14,7 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_bw_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Bitwarden</strong>: Cực kỳ bảo mật, mã nguồn mở, bản miễn phí có nhiều tính năng hữu ích, trả phí ~$10/năm để có chức năng OTP. Có chức năng quản trị trong doanh nghiệp mạnh, bản miễn phí được 2 người dùng. Thuộc công ty Hoa Kỳ (29/01/2026).<br><br>
+        <strong> Bitwarden</strong>: Cực kỳ bảo mật, mã nguồn mở, bản miễn phí có nhiều tính năng hữu ích, tạo thêm trường phụ, trả phí ~$10/năm để có chức năng OTP. Có chức năng quản trị trong doanh nghiệp mạnh, bản miễn phí được 2 người dùng. Thuộc công ty Hoa Kỳ (29/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -22,10 +22,7 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_pp_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Proton Pass</strong>: ....<br><br>
-        <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_1p_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> 1Password</strong>: ....<br><br>
+        <strong> Proton Pass</strong>: Bảo mật cao, mã nguồn mở, bản miễn phí có tính năng cơ bản. Thuộc công ty Thụy Sĩ (Switzerland) (29/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -33,10 +30,13 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_ic_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> iCloud Keychain</strong>: ...<br><br>
+        <strong> iCloud Keychain</strong>: Sử dụng trong hệ sinh thái Apple, không lưu được nhiều thông tin khác về trương mục. Thuộc công ty Hoa Kỳ (29/01/2026).<br><br>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_gg_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Google Password</strong>: ...<br><br>
+        <strong> Google Password</strong>: Lưu trực tiếp trong trình duyệt Chrome kém an toàn. Không lưu được nhiều thông tin khác về trương mục. Thuộc công ty Hoa Kỳ (29/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_1p_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> 1Password</strong>: Bảo mật, mã nguồn đóng. Thuộc công ty Canada (29/01/2026).<br><br>
       </td>
     </tr>
     <tr>
