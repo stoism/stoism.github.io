@@ -13,7 +13,7 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_ss_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_bw_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Bitwarden</strong>: Cực kỳ bảo mật, mã nguồn mở, bản miễn phí có nhiều tính năng hữu ích, trả phí ~$10/năm để có chức năng OTP. Có chức năng quản trị trong doanh nghiệp mạnh, bản miễn phí được 2 người dùng. Thuộc công ty Hoa Kỳ (29/01/2026).<br><br>
       </td>
     </tr>
@@ -21,10 +21,10 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_tlg_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_ps_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Proton Pass</strong>: ....<br><br>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_tlg_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_1p_64.png" width="48" style="vertical-align: middle;"> 
         <strong> 1Password</strong>: ....<br><br>
       </td>
     </tr>
@@ -32,10 +32,10 @@ Bảng xếp hạng các nhu liệu (phần mềm) quản lý trương mục (t�
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_ss_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_ic_64.png" width="48" style="vertical-align: middle;"> 
         <strong> iCloud Keychain</strong>: ...<br><br>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_chat_ss_64.png" width="48" style="vertical-align: middle;"> 
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_pw_gg_64.png" width="48" style="vertical-align: middle;"> 
         <strong> Google Password</strong>: ...<br><br>
       </td>
     </tr>
