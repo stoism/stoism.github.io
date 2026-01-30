@@ -70,6 +70,66 @@ Bảng xếp hạng các sàn giao dịch và ví crypto mà tôi đã sử dụ
 https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_zl_64.png
 -->
   
+  
+## Ví crypto
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; text-align: center;">Cấp độ</th>
+      <th style="width: 90%;">Nội dung xếp hạng</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
+      <td>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_a_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> ...</strong>: .... Thuộc công ty ..., người ... sáng lập (30/01/2026).<br><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
+      <td>
+       ...<br><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
+      <td>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_cb_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Metamask</strong>: Hỗ trợ blockchain Ethereum là chính, giao diện đơn giản, tích hợp giao dịch CEX, Staking, người dùng giữ seed phrase. Mã nguồn mở chỉ một phần. Thuộc công ty Hoa Kỳ (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_cb_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Base Wallet</strong>: Hỗ trợ vài blockchain (Bitcoin, Ethereum, Doge, Solana), giao diện đơn giản, tích hợp giao dịch CEX, Staking, người dùng giữ seed phrase. Mã nguồn mở chỉ một phần, đang có xu hướng nhồi nhét nhiều thứ, lưu seed phrase trên cloud. Thuộc công ty Coinbase, Hoa Kỳ (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_tr_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Trust Wallet</strong>: Hỗ trợ nhiều blockchain, giao diện đơn giản, tích hợp giao dịch CEX, Staking, người dùng giữ seed phrase. Mã nguồn mở chỉ một phần. Thuộc công ty Binance (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_tr_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> OKX Web3 Wallet</strong>: Hỗ trợ nhiều blockchain, giao diện đơn giản, tích hợp giao dịch CEX, Staking, người dùng giữ seed phrase. Mã nguồn mở chỉ một phần. Thuộc công ty OKX (30/01/2026).<br><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #FFA534; color: white; text-align: center; font-weight: bold;">C</td>
+      <td>
+       ...<br><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #FF4545; color: white; text-align: center; font-weight: bold;">D</td>
+      <td>
+        <!-- App -->
+        ...<br><br>
+      </td>
+    </tr>
+  </tbody>
+</table>  
+<!-- https://favicon.vemetric.com/www.getsession.org?size=48?format=png
+https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_zl_64.png
+-->
+  
 ### Tiêu chí đánh giá  
 - Ưu tiên đánh giá dựa trên tính thực dụng.  
 - Sàn giao dịch (hoặc ví crypto) bảo mật cực cao nhưng quá khó xài với người dùng phổ thông vẫn có thể không được xếp hạng cao.  
