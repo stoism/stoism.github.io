@@ -1,6 +1,7 @@
 # Xếp hạng sàn giao dịch và ví crypto
 Bảng xếp hạng các sàn giao dịch và ví crypto mà tôi đã sử dụng. Tiêu chí xếp hạng chi tiết ở cuối bài.  
-  
+
+## Sàn giao dịch
 <table>
   <thead>
     <tr>
@@ -13,24 +14,24 @@ Bảng xếp hạng các sàn giao dịch và ví crypto mà tôi đã sử dụ
       <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_pt_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Proton VPN</strong>: Cực kỳ bảo mật, mã nguồn mở, chính sách no-logs, nhiều server, giới hạn 10 thiết bị, có máy chủ miễn phí. Thuộc công ty Thụy Sĩ (Switzerland) (29/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_bi_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Binance</strong>: Dễ sử dụng, giao diện đẹp, giao dịch P2P, phí thấp, tỉ lệ dự trữ ≥1:1 (khả năng bồi thường nếu sàn bị hack). Thuộc công ty tại Quần đảo Cayman (có công ty tại Hoa Kỳ), người Trung Quốc sáng lập (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_ss_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Surfshark</strong>: Bảo mật cao, chi phí thấp so với dịch vụ khác, chính sách no-logs, không giới hạn thiết bị, nhiều máy chủ, stream mạnh, có công cụ speedtest tích hợp, không có máy chủ miễn phí. Công ty đã sáp nhập với Nord Security, có nhiều người nổi tiếng liên kết quảng cáo nên cần theo dõi thêm. Thuộc công ty Hà Lan (Netherlands) (29/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_ok_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> OKX</strong>: Dễ sử dụng, giao diện đẹp, giao dịch P2P, tỉ lệ dự trữ ≥1:1. Thuộc công ty tại Seychelles (có công ty tại Hoa Kỳ), người Trung Quốc sáng lập (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFE234; color: white; text-align: center; font-weight: bold;">B</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_vpn_pia_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Private Internet Access (PIA)</strong>: Bảo mật, không giới hạn thiết bị, không máy chủ miễn phí. Kiểm tra tốc độ tại Việt Nam kết quả không tốt lắm. Thuộc công ty Hoa Kỳ (01/01/2024).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_bb_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Bybit</strong>: Dễ sử dụng, giao diện đẹp, giao dịch P2P, tỉ lệ dự trữ ≥1:1. Phí cao. Thuộc công ty tại Dubai, UAE, người Singapore (gốc Trung Quốc) sáng lập (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
