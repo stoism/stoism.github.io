@@ -121,7 +121,8 @@ https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_
       <td style="background-color: #FF4545; color: white; text-align: center; font-weight: bold;">D</td>
       <td>
         <!-- App -->
-        ...<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_c9_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Coin98</strong>: Hỗ trợ nhiều blockchain, giao diện đơn giản, tích hợp giao dịch CEX, Staking, người dùng giữ seed phrase. Mã nguồn đóng, nguồn gốc Việt Nam kém uy tín. Thuộc công ty Việt Nam (30/01/2026).<br><br>
       </td>
     </tr>
   </tbody>
