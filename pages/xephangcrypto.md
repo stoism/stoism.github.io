@@ -24,6 +24,9 @@ Bảng xếp hạng các sàn giao dịch và ví crypto mà tôi đã sử dụ
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_ok_64.png" width="48" style="vertical-align: middle;"> 
         <strong> OKX</strong>: Dễ sử dụng, giao diện đẹp, giao dịch P2P, tỉ lệ dự trữ ≥1:1. Thuộc công ty tại Seychelles (có công ty tại Hoa Kỳ), người Trung Quốc sáng lập (30/01/2026).<br><br>
+         <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_kr_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Kraken</strong>: Giao diện đơn giản, tỉ lệ dự trữ ≥1:1. Phí sàn cao, không giao dịch P2P. Thuộc công ty Hoa Kỳ, người Hoa Kỳ sáng lập (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
@@ -31,14 +34,27 @@ Bảng xếp hạng các sàn giao dịch và ví crypto mà tôi đã sử dụ
       <td>
         <!-- App -->
         <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_bb_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> Bybit</strong>: Dễ sử dụng, giao diện đẹp, giao dịch P2P, tỉ lệ dự trữ ≥1:1. Phí cao. Thuộc công ty tại Dubai, UAE, người Singapore (gốc Trung Quốc) sáng lập (30/01/2026).<br><br>
+        <strong> Bybit</strong>: Dễ sử dụng, giao diện đẹp, giao dịch P2P, tỉ lệ dự trữ ≥1:1, tạo được thẻ thanh toán crypto quốc tế (thêm thẻ thanh toán Steam, Google Play được, Appstore chưa được, phí giao dịch ngoại tệ khác USD là 2,8%). Phí sàn cao. Thuộc công ty tại Dubai, UAE, người Singapore (gốc Trung Quốc) sáng lập (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_cr_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Crypto.com Exchange</strong>: Giao diện đơn giản, tỉ lệ dự trữ ≥1:1. Phí sàn cao, không giao dịch P2P. Thuộc công ty Singapore, người Ba Lan sáng lập (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #FFA534; color: white; text-align: center; font-weight: bold;">C</td>
       <td>
         <!-- App -->
-        ...<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_ku_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> MEXC</strong>: Giao dịch P2P. Giao hiện hơi rối, lo ngại bảo mật. Thuộc công ty tại Seychelles, người Trung Quốc sáng lập (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_ku_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> KuCoin</strong>: Giao dịch P2P. Giao hiện hơi rối, lo ngại bảo mật. Thuộc công ty tại Seychelles, người Trung Quốc sáng lập (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_ht_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> HTX (Houbi)</strong>: Giao dịch P2P. Giao hiện hơi rối, lo ngại bảo mật. Thuộc công ty tại Seychelles, người Trung Quốc sáng lập (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_re_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Remitano</strong>: Giao diện đơn giản, giao dịch P2P mạnh tại Việt Nam. Không phải giao dịch crypto như sàn lớn, lo ngại bảo mật, rắc rối pháp lý với người Việt Nam nếu dữ liệu bị lộ. Thuộc công ty tại Seychelles, người Việt Nam sáng lập (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
