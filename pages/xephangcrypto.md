@@ -84,14 +84,19 @@ https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_app_
       <td style="background-color: #57E32C; color: white; text-align: center; font-weight: bold;">S</td>
       <td>
         <!-- App -->
-        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_a_64.png" width="48" style="vertical-align: middle;"> 
-        <strong> ...</strong>: .... Thuộc công ty ..., người ... sáng lập (30/01/2026).<br><br>
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_cb_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> BlueWallet</strong>: Chỉ hỗ trợ blockchain Bitcoin (gồm Lightning network), giao diện đơn giản, người dùng giữ seed phrase, có ví đa chữ ký, mã nguồn mở. Thuộc công ty Tây Ban Nha (Spain) (30/01/2026).<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_cb_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> Safe{Wallet}</strong>: Hỗ trợ blockchain Ethereum là chính, giao diện đơn giản, người dùng giữ seed phrase, có ví đa chữ ký, mã nguồn mở. Thuộc công ty Đức (Germany) (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
       <td style="background-color: #B7DD29; color: white; text-align: center; font-weight: bold;">A</td>
       <td>
-       ...<br><br>
+        <!-- App -->
+        <img src="https://raw.githubusercontent.com/stoism/stoism.github.io/main/assets/bl/bl_ct_cb_64.png" width="48" style="vertical-align: middle;"> 
+        <strong> MEW (MyEtherWallet)</strong>: Hỗ trợ blockchain Ethereum là chính, giao diện đơn giản, người dùng giữ seed phrase, mã nguồn mở. Không xài được với VPN. Thuộc công ty Tây Ban Nha (Spain) (30/01/2026).<br><br>
       </td>
     </tr>
     <tr>
