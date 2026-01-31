@@ -86,7 +86,7 @@ Một số app nên cài
 ```chmod -R 755 "/Volumes/DISK/Program/ProfileA"```  
 
 2. Chạy lệnh Teminal hoặc dùng nhu liệu "Automator" → New → Application → thêm Action "Run Shell Script" → paste lệnh trên vào → Save thành app riêng (ví dụ "Brave ProfileA.app")  
-```"/Applications/Brave Browser.app/Contents/MacOS/Brave Browser" --user-data-dir="/Volumes/DISK/Program/ProfileA" --no-default-browser-check```  
+```"/Applications/Brave Browser.app/Contents/MacOS/Brave Browser" --user-data-dir="/Volumes/DISK/Program/ProfileA" --no-default-browser-check &```  
 hoặc  
 ```open -a "Brave Browser" --args --user-data-dir="/Volumes/DISK/Program/ProfileA" --no-default-browser-check```  
   
