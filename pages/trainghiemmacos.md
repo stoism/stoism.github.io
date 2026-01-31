@@ -71,15 +71,26 @@ Một số app nên cài
 ```brew install --cask Karabiner-Elements``` (thêm phím tắt)  
 ```brew install --cask motrix``` (quản lý download)   
 ```brew install --cask keka``` (nén file)   
+```brew install --cask fuse-t``` -> cài https://www.veracrypt.io/en/Downloads.html  
+
 
 ### Cài EVkey  
 1. Tải https://evkeyvn.com  
 2. Setting > Privacy & Security > trong phần Security bấm "Open Anyway" EVKey (cho phép EVKey chạy)  
 3. Cấp quyền bàn phím: Setting > Privacy & Security > Accessibility > bật EVKey  
 4. Sau khi EVKey chạy, chọn thiết lập từ icon góc phải  
+  
+### Tùy chỉnh vị trí profile trình duyệt Brave
+1. Cấp quyền cho nhu liệu  
+```sudo chown -R $(whoami):staff "/Volumes/DISK/Program/ProfileA"```  
+```chmod -R 755 "/Volumes/DISK/Program/ProfileA"```  
 
-
-
+2. Chạy lệnh Teminal hoặc dùng nhu liệu "Automator" → New → Application → thêm Action "Run Shell Script" → paste lệnh trên vào → Save thành app riêng (ví dụ "Brave ProfileA.app")  
+```"/Applications/Brave Browser.app/Contents/MacOS/Brave Browser" --user-data-dir="/Volumes/DISK/Program/ProfileA" --no-default-browser-check```  
+hoặc  
+```open -a "Brave Browser" --args --user-data-dir="/Volumes/DISK/Program/ProfileA" --no-default-browser-check```  
+  
+  
 ## Kiểm tra máy mới mua  
 System Report (Báo cáo hệ thống): Apple > System Settings (Cài đặt hệ thống) > General (Chung) > nhấp vào nút System Report (Báo cáo hệ thống)  
 
