@@ -1,5 +1,10 @@
 # Stoism review (đánh giá)
-  
+
+
+## Dùng tài khoản Apple iCloud Mail làm trung gian mail chuyển tiếp thư có thể bị đánh dấu là spam và khoá tài khoản
+created: 2026-03-01  
+Có thể liên hệ Apple để mở khoá, Apple báo có thể mất khoảng cả tuần lễ. Họ chỉ có thể mở khoá một lần duy nhất, tái phạm lần nữa là khoá vĩnh viễn. Thời gian khoảng 6 tháng chuyển tiếp bằng tính năng mặc định của Mail thì không thấy gì. Nhưng khoảng 1 tháng chuyển tiếp bằng lệnh "IF" từ mỗi alias phụ sang mail khác nhau thì xảy ra tình trạng trên.
+
 ## Nguồn hàng cũ từ Điện Máy Xanh
 created: 2026-03-01  
 Máy lạnh (điều hòa không khí) cũ bán từ Điện Máy Xanh thường từ:  
