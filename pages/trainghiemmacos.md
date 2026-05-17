@@ -3,7 +3,8 @@
 ## Lưu ý
 - Cân nhắc thật kỹ nhu cầu, vì đã mua mày thì phải mua thêm phần mềm bản quyền.
 - Các ứng dụng công việc tại Việt Nam đa số chạy trên Windows, MacOS không chạy được gì nhiều ngoài duyệt web. Có thể cài Windows ARM (bản thiết kế riêng cho dòng chip Apple này) nhưng khi chạy ứng dụng x86, x64 thông thường trên PC dễ gây nóng máy (dễ thấy tiếc).
-
+- Sau một năm xài, macbook chỉ dùng để coi phim mỗi ngày. Lâu lâu đi công tác có thể dùng để soạn văn bản word (phải mua bản quyền Office), mặt tốt là pin của máy khá lâu, xài cả ngày cũng không vấn đề. Ứng dụng Word hay Excel không xài tốt như trên Windows, điểm này khó giải thích dù nhìn giao diện cũng không khác mấy trên Windows. Phải tốn công tìm ứng dụng mã nguồn mở miễn phí trên MacOS để giải nén, xem phim, xem hình... cho ngon lành. Dù có thể giả lập Windows 11 ARM trên MacOS với VMware Fusion, nhưng phần mềm quá chuyên môn về kế toán, xây dựng, đồ họa... không thể chạy do không hỗ trợ chip ARM hoặc driver không đầy đủ trên máy ảo. Những cái chạy được trên máy ảo thì MacOS có ứng dụng chạy được rồi nên cũng không cần máy ảo làm gì. Tóm lại, chỉ dùng xem phim, pin lâu tùy nhu cầu mà xài, các tính năng khác của máy tại Việt Nam cũng không có dịp xài nên hơi lãng phí.  
+  
 ## Định nghĩa  
 - Vẫn có thể cài phần mềm ngoài Appstore.  
 - Một số phần mềm lớn vẫn có thuốc.  
