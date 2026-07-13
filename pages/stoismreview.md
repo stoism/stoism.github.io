@@ -1,6 +1,27 @@
 # Stoism review (đánh giá)
 
 
+
+## Về tài khoản Google Hoa Kỳ (Mỹ)
+created: 2026-07-13  
+1. TẠO TÀI KHOẢN GOOGLE HOA KỲ
+Chuẩn bị:  
+- Điện thoại android xách tay có "Model Number" từ Hoa Kỳ. Chưa thử loại từ Việt Nam.   
+- Trên điện thoại không gắn sim, bật chế độ máy bay. Nếu không, máy sẽ dò ra được cột sóng điện thoại từ Việt Nam.    
+- Bật VPN (đã thử bằng Surfshark) máy chủ Hoa Kỳ:
++ Dùng một máy tính Windows phát Wifi (Hotspot), trên máy cài VPN kết nối dạng UDP để chia sẽ cho Hotspot. Dùng điện thoại kết nối đến Hotspot đó và kiểm tra xem có chuyển IP được chưa.
++ Không nên dùng app VPN trên máy vì kết nối sẽ bị ngắt lúc tạo tài khoản.
+- Không cần dùng số điện thoại. Nhưng nếu Google nghi ngờ và đòi cung cấp số điện thoại, đăng ký tài khoản số điện thoại ảo như sms-man.com, nạp tiền (khoảng $2 cho mỗi tin nhắn SMS nhận thành công), ta sẽ dùng nó để nhận tin nhắn xác thực.
+Khi tạo tài khoản, cần dùng VPN Hoa Kỳ đăng ký trên điện thoại android sạch. Google rất dễ nhận diện điện thoại đã dùng để tạo tài khoản trước đó thông qua vài giải pháp kỹ thuật (bất kể có factory reset).
+Sau khi tạo thành công, không nên đăng nhập tài khoản trên nhiều thiết bị. 
+
+2. NẠP TIỀN PLAY STORE
+- Phương pháp nạp bằng Gift card không hiệu quả, code chỉ có thể nhập khi (về vật lý) điện thoại đang ở Hoa Kỳ. VPN không giúp được gì. Nếu thử nhập code, Google Play sẽ có cảnh báo, tôi cố thử nhiều cách (đổi VPN, tắt định vị, nhập qua web, nhập qua Play Store) nhưng sau 5 lần thử, Google đòi 4 số cuối của SSN để xác minh danh tính, nếu không xác minh thì không thanh toán được gì, dù sau 1 ngày tài khoản vẫn xài các chức năng khác được. Tới bước này thì thôi nên từ bỏ, tránh nhập đại SSN, Google sẽ biết được và đưa thiết bị vào danh sách đen.
+- Phương pháp bằng debit card thử thành công. Nhưng trên một tài khoản đăng ký khoảng 10 năm ở Việt Nam, có store vùng Việt Nam. Sau đó tạo thêm tài khoản store vùng Hoa Kỳ, liên kết Bybit card ảo sử dụng nguồn tiền USDT. Khi thanh toán, Goole sẽ đòi xác minh chính chủ thẻ bằng cách tạo một giao dịch qua thẻ với giá trị $1, nội dung giao dịch là mã OTP (nó sẽ lẫn lộn với vài nội dung khác trong giao dịch). Mở app Bybit xem lịch sử giao dịch, điền số OTP vào tài khoản Google Play là được. Chắc do tài khoản có thâm niên, xài mạng thật ở Việt Nam, mua hàng ở store Hoa Kỳ vẫn được. 
+- Tương lai sẽ thử lại tạo tài khoản Google mới, trên điện thoại android mới, liên kết Bybit card ảo.
+
+
+
 ## Đánh giá thùng Giữ Nhiệt Coleman 45L - 3000033007
 created: 2026-05-17  
 - Thùng Giữ Nhiệt Coleman 45L - 3000033007(4852). Thử nghiệm với 35000 đồng đá cục (khoảng một bao thức ăn), đổ đầy thùng, để trong nhà, nhiệt độ phòng trung bình 29 độ C. Sau 51 giờ không mở thùng, lượng đá còn lại gồm nước là 1/2 thùng, nếu đổ hết nước lạnh ra thì còn lại 1/4 thùng chỉ đá lạnh.  
@@ -44,9 +65,13 @@ created: 2026-01-01
 Chuẩn bị:  
 - Điện thoại iPhone xách tay có "Model Number" từ Hoa Kỳ (...LL/A). Chưa thử loại iPhone từ Việt Nam.   
 - Trên iPhone không gắn sim, bật chế độ máy bay. Nếu không, máy sẽ dò ra được cột sóng điện thoại từ Việt Nam.    
-- Bật VPN (đã thử bằng Surfshark) máy chủ Hoa Kỳ.  
-- Đăng ký tài khoản số điện thoại ảo như sms-man.com, nạp tiền (khoảng $2 cho mỗi tin nhắn SMS nhận thành công), ta sẽ dùng nó để nhận tin nhắn xác thực.  
-Thực hiện: đăng ký như bình thường. Sau đó hạn chế đăng nhập lung tung, dùng VPN thường xuyên, tải ít ứng dụng ban đầu thôi, phương thức thanh toán không liên kết cũng được. Nạp tiền App Store bằng Gift Card Hoa Kỳ mua qua mygiftcardsupply.com, phí khoảng 20%, ở Việt Nam vẫn nạp được.  
+- Bật VPN (đã thử bằng Surfshark) máy chủ Hoa Kỳ. Có 2 cách:
++ 1. Dùng một máy tính Windows phát Wifi (Hotspot), trên máy cài VPN kết nối dạng UDP để chia sẽ cho Hotspot. Dùng iPhone kết nối đến Hotspot đó và kiểm tra xem có chuyển IP được chưa.
++ 2. Máy iPhone đã đăng nhập một tài khoản iCloud A, đã cài VPN, sau đó thoát iCloud A. Bật VPN kết nối thành công thì bắt đầu tạo mới iCloud B. Cách này tạo thành công nhưng rủi ro máy phát hiện được đang dùng VPN.
+- Đăng ký tài khoản số điện thoại ảo như sms-man.com, nạp tiền (khoảng $2 cho mỗi tin nhắn SMS nhận thành công), ta sẽ dùng nó để nhận tin nhắn xác thực.
+- Cần 2 Yubico key để làm phương thức xác thực 2 bước, như vậy máy sẽ hạn chế gửi sms để xác thực. Ta chỉ có thể dùng số điện thoại ảo xác thực một lần lúc đăng ký, nên các lần sau nếu đăng nhập máy khác thì cần Yubico key để đăng nhập. Nên mua loại Yubico key có NFC và cổng USB Type C để tương thích được nhiều loại máy hơn.
+Thực hiện: đăng ký như bình thường. Sau đó hạn chế đăng nhập lung tung, dùng VPN thường xuyên, tải ít ứng dụng ban đầu thôi, phương thức thanh toán không liên kết cũng được. Nạp tiền App Store bằng Gift Card Hoa Kỳ mua qua mygiftcardsupply.com, phí khoảng 20%, ở Việt Nam vẫn nạp được. Theo kinh nghiệm mỗi máy chỉ tạo không quá 3 iCloud một năm.
+- Sau khi đăng ký thành công phải thêm 2 Yubico key làm phương thức xác thực 2 bước.
 
 
 ## Cách tạo thẻ ảo debit thanh toán bằng USD
