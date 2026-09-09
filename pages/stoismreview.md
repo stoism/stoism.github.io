@@ -1,10 +1,18 @@
 # Stoism review (đánh giá)
 
 
+## Về tài khoản Facebook Hoa Kỳ (Mỹ)
+created: 2026-07-23  
+Điều cần lưu ý:
+- Tạo bằng email alias lạ sẽ bị đòi xác minh người thật ngay. Nên dùng email lớn như google.com, outlook.com, icloud.com.
+- Không nên tự khai nhiều thông tin cho FB như số điện thoại, khi FB check "sự hợp lý" thì rủi ro là thông tin không khớp, sẽ bị đòi xác minh người thật. Chú ý thông tin trên máy tạo tài khoản phải khớp như: IP, múi giờ, ngôn ngữ bàn phím, ngôn ngữ máy.
+- Tạo bằng trình duyệt sẽ ít bị FB thu thập "dấu vân tay thiết bị" hơn là qua ứng dụng.
+- Tạo thành không, không nên tương tác, kết bạn, follow nhanh, FB sẽ phát hiện là spam. Cố gắn hành động chậm rãi khoảng 1 tháng.
+
 
 ## Về tài khoản Google Hoa Kỳ (Mỹ)
 created: 2026-07-13  
-1. TẠO TÀI KHOẢN GOOGLE HOA KỲ
+1. TẠO TÀI KHOẢN GOOGLE HOA KỲ (CÁCH 1)
 Chuẩn bị:  
 - Điện thoại android xách tay có "Model Number" từ Hoa Kỳ. Chưa thử loại từ Việt Nam.   
 - Trên điện thoại không gắn sim, bật chế độ máy bay. Nếu không, máy sẽ dò ra được cột sóng điện thoại từ Việt Nam.    
@@ -15,10 +23,16 @@ Chuẩn bị:
 Khi tạo tài khoản, cần dùng VPN Hoa Kỳ đăng ký trên điện thoại android sạch. Google rất dễ nhận diện điện thoại đã dùng để tạo tài khoản trước đó thông qua vài giải pháp kỹ thuật (bất kể có factory reset).
 Sau khi tạo thành công, không nên đăng nhập tài khoản trên nhiều thiết bị. 
 
-2. NẠP TIỀN PLAY STORE
-- Phương pháp nạp bằng Gift card không hiệu quả, code chỉ có thể nhập khi (về vật lý) điện thoại đang ở Hoa Kỳ. VPN không giúp được gì. Nếu thử nhập code, Google Play sẽ có cảnh báo, tôi cố thử nhiều cách (đổi VPN, tắt định vị, nhập qua web, nhập qua Play Store) nhưng sau 5 lần thử, Google đòi 4 số cuối của SSN để xác minh danh tính, nếu không xác minh thì không thanh toán được gì, dù sau 1 ngày tài khoản vẫn xài các chức năng khác được. Tới bước này thì thôi nên từ bỏ, tránh nhập đại SSN, Google sẽ biết được và đưa thiết bị vào danh sách đen.
+2. TẠO TÀI KHOẢN GOOGLE HOA KỲ (CÁCH 2)
+- Tạo tài khoản Google mới bằng dịch vụ trung gian DistrictDroid.com, nó cho ta điều khiển một chiếc điện thoại vật lý từ xa ở Texas, Hoa Kỳ. Vì là điện thoại vật lý thật ở Texas, nên từ mạng 5G T-Mobile, GPS, timezone đều như người thật nên tạo tài khoản được dễ dàng. Chi phí thuê máy khá cao, có các gói $20/1ngày, $50/tuần, $110/tháng. Thuê 1 tuần để tài khoản hoạt động giống thật chút, rồi khi hết thuê bao thì thoát tài khoản ra (phải thoát để tránh phát sinh 2 session ở 2 nơi cùng lúc dễ bị nghi ngờ), đăng nhập máy vật lý ở Việt Nam nhưng dùng IP Mỹ cho an toàn.
+
+
+3. NẠP TIỀN PLAY STORE
+- Phương pháp nạp bằng Gift card khi máy vật lý ở Việt Nam không hiệu quả, code chỉ có thể nhập khi (về vật lý) điện thoại đang ở Hoa Kỳ. VPN không giúp được gì. Nếu thử nhập code, Google Play sẽ có cảnh báo, tôi cố thử nhiều cách (đổi VPN, tắt định vị, nhập qua web, nhập qua Play Store) nhưng sau 5 lần thử, Google đòi 4 số cuối của SSN để xác minh danh tính, nếu không xác minh thì không thanh toán được gì, dù sau 1 ngày tài khoản vẫn xài các chức năng khác được. Tới bước này thì thôi nên từ bỏ, tránh nhập đại SSN, Google sẽ biết được và đưa thiết bị vào danh sách đen.
+- Nạp tiền Gift card bằng máy vật lý thuê qua DistrictDroid.com thành công. Redeem qua trình duyệt (play.google.com/redeem), redeem qua app sẽ bị cơ chế bảo mật của android làm đen màng hình để bảo mật, bạn sẽ không thấy gì để thao tác. Nhưng không thanh toán trên Play store được do cơ chế bảo mật làm đen màng hình khi cần nhập mật mã. Khi chuyển về máy vật lý ở Việt Nam sẽ thanh toán được.
 - Phương pháp bằng debit card thử thành công. Nhưng trên một tài khoản đăng ký khoảng 10 năm ở Việt Nam, có store vùng Việt Nam. Sau đó tạo thêm tài khoản store vùng Hoa Kỳ, liên kết Bybit card ảo sử dụng nguồn tiền USDT. Khi thanh toán, Goole sẽ đòi xác minh chính chủ thẻ bằng cách tạo một giao dịch qua thẻ với giá trị $1, nội dung giao dịch là mã OTP (nó sẽ lẫn lộn với vài nội dung khác trong giao dịch). Mở app Bybit xem lịch sử giao dịch, điền số OTP vào tài khoản Google Play là được. Chắc do tài khoản có thâm niên, xài mạng thật ở Việt Nam, mua hàng ở store Hoa Kỳ vẫn được. 
-- Tương lai sẽ thử lại tạo tài khoản Google mới, trên điện thoại android mới, liên kết Bybit card ảo.
+
+
 
 
 
