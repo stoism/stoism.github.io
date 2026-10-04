@@ -1,14 +1,16 @@
 # Chỉ dẫn tra kinh nghiệm skill
 
-Bản này cho bot và người đọc. Cách làm đang chạy vẫn nằm trong skill. File này chỉ đường.
+Bản này cho bot và người đọc. Cách làm đang chạy vẫn nằm trong skill. File này giữ đường thật. Skill không ghi cứng link raw.
 
-- Repo Pages mặc định: `stoism/stoism.github.io`, nhánh `main`.
-- Đường cố định: `pages/{tên-skill}.md`. Repo chính đổi tên thì phần `/pages` vẫn giữ.
+- Repo Pages hiện tại: `stoism/stoism.github.io`, nhánh `main`.
+- Gốc raw: `https://raw.githubusercontent.com/stoism/stoism.github.io/main/pages/`
+- Đường cố định: `pages/{tên-skill}.md`. Repo hoặc user đổi tên thì sửa file này, phần `/pages` vẫn giữ.
 - Một file một skill. Tên file trùng tên skill.
 - Trong file kinh nghiệm, `#` và `##` là một nhóm. Không cần mục lục. `###` nằm trong nhóm phía trên.
-- Đọc bản raw, không đọc trang đã dựng. Mẫu: `https://raw.githubusercontent.com/stoism/stoism.github.io/main/pages/tech-tin-hoc.md`
+- Đọc bản raw, không đọc trang đã dựng. Ví dụ: nối gốc raw với `tech-tin-hoc.md`.
 - Chỉ mở khi câu chạm kinh nghiệm. Không mở mỗi lượt chat.
 - Link không mở: ghi thiếu dữ liệu, không bịa từ trí nhớ.
+- Repo công khai nên đọc được dù mất cửa API. Hết đọc nếu repo bị xóa, chuyển riêng tư, hoặc đường raw bị chặn.
 - Trang công khai đã lọc tên người, mail, SSID, serial, số hợp đồng, khóa. Bản đủ chi tiết nội bộ không nằm ở đây.
 
 ## Nhóm file
