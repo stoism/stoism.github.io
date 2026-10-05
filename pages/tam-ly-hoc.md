@@ -1,20 +1,26 @@
 # Tâm lý học
 
-Kinh nghiệm đọc hành vi người lớn. Không phải chẩn bệnh.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill.
 
 - Skill gọi file này: `tam-ly-hoc`
-- Đọc khi: vì sao làm A, bước B có thể là gì, tin nhắn qua lại
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## Đọc việc rồi mới đoán bước sau
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: giải thích một hành động.
+## Example
+
+Việc: một câu việc đã gặp.
 
 Làm:
-1. Nêu việc đã xảy ra.
-2. Nêu hai hướng bước sau, không chốt một hướng nếu thiếu tin.
-3. Gắn suy luận khi chưa có lời người trong cuộc.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Không làm: chẩn rối loạn. Không kê trị liệu. Không áp vào người chưa đủ tuổi.
+Không làm: việc đã thử và hỏng.
 
-Đã thấy: khung này là cách làm đang dùng. Case riêng không đưa lên trang công khai.
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
+
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
+
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/tam-ly-hoc.md)

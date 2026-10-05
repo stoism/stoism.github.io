@@ -1,36 +1,26 @@
 # Tech lập trình
 
-Kinh nghiệm script đã gãy trên Windows.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill.
 
 - Skill gọi file này: `tech-lap-trinh`
-- Đọc khi: AutoIt, cmd, PowerShell, hotspot
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## AutoIt gọi PowerShell
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: bọc PowerShell trong AutoIt rồi file kết quả rỗng.
+## Example
+
+Việc: một câu việc đã gặp.
 
 Làm:
-1. Dấu chuyển hướng đầu ra là của cmd. Phải gọi qua bộ xử lý lệnh, không gắn thẳng vào tệp chạy.
-2. AutoIt 32-bit trên Windows 64-bit phải gọi PowerShell qua Sysnative, không qua System32.
-3. In một dòng có tiền tố rồi mới đọc, đừng tin chuỗi rỗng từ host không console.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Không làm: kết PowerShell hỏng trước khi kiểm tra chuyển hướng và bản 32/64.
+Không làm: việc đã thử và hỏng.
 
-Đã thấy: 2026-09-19, bật phát sóng Windows.
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
 
-## Cmd gãy vì ngoặc
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
 
-Việc: trong khối `if (` có lệnh echo chứa dấu `)` của PowerShell.
-
-Làm: để script PowerShell thành file tĩnh. Bắt buộc echo thì thoát dấu ngoặc. Bắt mã thoát ngay dưới lệnh, trước echo.
-
-Không làm: tin mã thoát sau echo hoặc type.
-
-## Phát sóng báo bật nhưng màn hình tắt
-
-Việc: trạng thái vận hành trả về đang bật, trang cài đặt vẫn tắt.
-
-Làm: dừng rồi bật lại nếu cần sóng thật. Đóng trang cài đặt rồi mở, không chỉ tải lại. Tắt IPv6 thì bỏ qua loopback và card ảo phát sóng.
-
-Đã thấy: 2026-09-19. API bật không bằng nút trên giao diện.
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/tech-lap-trinh.md)

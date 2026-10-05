@@ -1,31 +1,26 @@
 # Kỹ năng sống
 
-Kinh nghiệm học từ vấp. Không phải bài giảng đạo đức.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill.
 
 - Skill gọi file này: `ky-nang-song`
-- Đọc khi: vùng xám, tiệm máy, hàng cũ, tiền chịu lỗ
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## Bốn nhịp
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: kể một lần vấp rồi hỏi xử lý.
+## Example
 
-Làm:
-1. Vấp gì, không phán.
-2. Giá đã trả.
-3. Cách đang dùng.
-4. Chỗ còn mở: pháp lý, nền tảng, tiền. Thiếu thì ghi thiếu dữ liệu.
-
-Không làm: biến một lần thành luật cho mọi người. Không giấu case chỉ vì xấu.
-
-## Tiệm máy và hàng cũ
-
-Việc: máy bàn không lên nguồn, hoặc mua máy lạnh cũ, thùng giữ lạnh.
+Việc: một câu việc đã gặp.
 
 Làm:
-1. Công tắt nguồn case hỏng hay bị gạt nhầm trước khi kết main chết.
-2. Máy lạnh cũ hỏi gas và dàn, không tin mỗi tem năng lượng.
-3. Thùng giữ lạnh không phải tủ lạnh. Hết đá là hết lạnh.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Đã thấy: các case này nằm trong sổ skill, chưa có số đo mới trên trang này.
-Thiếu dữ liệu: chưa ghi giá từng tiệm.
+Không làm: việc đã thử và hỏng.
+
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
+
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
+
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/ky-nang-song.md)

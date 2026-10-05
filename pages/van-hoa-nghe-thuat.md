@@ -1,30 +1,26 @@
 # Văn hóa nghệ thuật
 
-Kinh nghiệm viết cho người đọc lạ hiểu.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill.
 
 - Skill gọi file này: `van-hoa-nghe-thuat`
-- Đọc khi: diễn giải, sửa bài, dạy cách viết
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## Câu đủ
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: bài bị bẻ thành từ lẻ.
+## Example
 
-Làm: mỗi ý một câu có chủ và có việc. Ngắn được. Không thành chuỗi nhãn.
-
-Không làm: văn điện báo, cụm treo không vị ngữ.
-
-## Diễn một việc
-
-Việc: người không trong nghề cần hiểu.
+Việc: một câu việc đã gặp.
 
 Làm:
-1. Một câu việc.
-2. Một ví dụ đời.
-3. Một cái không phải.
-4. Hai đến năm bước.
-5. Chỗ thiếu chứng thì ghi thiếu dữ liệu.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Không làm: chép sách có bản quyền. Không biến một bài thành giả sách.
+Không làm: việc đã thử và hỏng.
 
-Đã thấy: 2026-09-23, lỗi cụm treo lặp lại nếu không giữ luật câu đủ.
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
+
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
+
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/van-hoa-nghe-thuat.md)

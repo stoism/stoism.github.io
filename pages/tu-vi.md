@@ -1,26 +1,26 @@
 # Tử vi
 
-Cách đọc đã dùng. Không có ngày sinh, cung cá nhân, tên người.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill. Không chép lá số cá nhân lên trang này.
 
 - Skill gọi file này: `tu-vi`
-- Đọc khi: cần giới hạn lời đoán, không phải khi cần an sao
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## Lá số cá nhân không để trang công khai
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: trang này ai cũng xem được.
+## Example
 
-Làm: số mệnh, năm sinh, tên người giữ trong skill hoặc cuộc riêng. Trang này chỉ giữ cách đọc.
-
-Không làm: chép lá số một người lên repo Pages.
-
-## Cách đọc đang dùng
-
-Việc: xem một lá số.
+Việc: một câu việc đã gặp.
 
 Làm:
-1. An mệnh, an thân, lập cục trước khi nói hạn.
-2. Chính tinh trước, phụ tinh sau. Hỏa Linh Không Kiếp không đứng một mình thành kết.
-3. Thiếu sao hoặc thiếu giờ sinh thì ghi thiếu dữ liệu, không bịa cung.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Đã thấy: sách đang bám là hệ Đẩu Số phổ thông. Không thay bản in.
+Không làm: việc đã thử và hỏng.
+
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
+
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
+
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/tu-vi.md)

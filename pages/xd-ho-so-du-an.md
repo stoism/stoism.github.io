@@ -1,42 +1,26 @@
 # Hồ sơ dự án
 
-Kinh nghiệm soát cây hồ sơ và lần trình. Đã bỏ mã dự án, tên nhà thầu, số tài khoản.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill.
 
 - Skill gọi file này: `xd-ho-so-du-an`
-- Đọc khi: thiếu file, tên thư mục, kiểm tra tờ trình ký, cộng Excel
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## Hai mẫu không phủ định nhau
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: hồ sơ chi nhánh này thiếu mục của chi nhánh kia.
+## Example
 
-Làm: đối đúng chủ đầu tư, năm, loại gói. Mẫu chỉ định rút gọn công trình nhỏ không lấy làm chuẩn cho gói khác.
-
-Không làm: thấy mẫu có bước kiểm toán thì kết dự án này thiếu kiểm toán.
-
-## Tên file
-
-Việc: gọi tờ trong chat.
+Việc: một câu việc đã gặp.
 
 Làm:
-1. Gọi tên file đầy đủ, cắt đuôi được.
-2. File có cờ bỏ thì không đếm, trừ khuôn hóa đơn còn sống.
-3. Số và ngày trên tên file là bản đã ký. Thân tờ thường không ghi lại.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Không làm: gọi tắt bằng số bước. Người đọc không đối ra tờ.
+Không làm: việc đã thử và hỏng.
 
-## Lệch số
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
 
-Việc: bảng quyết toán hoặc phụ lục.
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
 
-Làm: cộng dọc, cộng ngang, dòng cha trừ dòng con. Lệch từ một đồng là sai cộng. Không lấy dung sai định mức làm dung sai cộng tiền.
-
-Không làm: kết thiếu ngày khi ô thanh toán để trống vì việc chưa tới.
-
-## Giá hợp đồng và giá gói
-
-Việc: thương thảo xong đối với kế hoạch lựa chọn nhà thầu.
-
-Làm: giá hợp đồng không cao hơn giá gói. Thời gian thực hiện hợp đồng không dài hơn thời gian gói. Khác số ngày nhưng vẫn dưới trần thì đạt, và nhắc vì hiếm.
-
-Đã thấy: các quy ước trên dùng khi soát hồ sơ đầu tư xây dựng có lựa chọn nhà thầu, 2024–2026. Ngưỡng phần trăm cắt gói là quy ước nội bộ, chưa phải điều luật.
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/xd-ho-so-du-an.md)

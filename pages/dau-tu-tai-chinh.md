@@ -1,34 +1,26 @@
 # Đầu tư tài chính
 
-Kinh nghiệm túi tiền cá nhân. Không phải khuyến nghị có giấy phép.
+Khung để sếp ghi kinh nghiệm thủ công. Grok không mở file này mỗi lần gọi skill.
 
 - Skill gọi file này: `dau-tu-tai-chinh`
-- Đọc khi: phân bổ, cắt lỗ, danh mục, vàng, chứng, crypto
-- Cập nhật: 2026-10-04
+- Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
+- Cập nhật: 2026-10-05
 
-## Không nhớ danh mục
+`#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
-Việc: hỏi đang nắm gì, lời lỗ bao nhiêu.
+## Example
+
+Việc: một câu việc đã gặp.
 
 Làm:
-1. Tìm file CSV xuất từ Yahoo Finance trên Drive.
-2. File mới ghi đè bản cũ, không cộng dồn.
-3. Thiếu file thì ghi thiếu dữ liệu, không nhớ từ cuộc trước.
+1. Bước đã làm.
+2. Bước tiếp.
 
-Không làm: trả lời danh mục từ trí nhớ.
+Không làm: việc đã thử và hỏng.
 
-## Ba lớp một cổ phiếu ngành dầu
+Đã thấy: ngày, hoàn cảnh. Cắt tên riêng, số hợp đồng, mail.
+Thiếu dữ liệu: chỗ chưa đo.
 
-Việc: giá thế giới, chính sách tập đoàn, và vận hành chi nhánh không phải một số.
+Sếp thêm nhóm mới bằng `##`. Giữ mục Example này làm khung, hoặc xóa khi đã có nhóm thật.
 
-Làm: tách ba lớp trước khi bàn mua bán. Không lấy việc ở chi nhánh làm tin nội bộ.
-
-Không làm: khuyên vay để mua. Không hô tất tay khi lương còn mỏng.
-
-## Tiền chấp nhận mất
-
-Việc: crypto, góp ngang hàng, ví tự giữ.
-
-Làm: chỉ tính phần không đụng tiền nhà và bảo hiểm bắt buộc. Hỏi ai đang giữ khóa hoặc sổ.
-
-Đã thấy: danh mục phải đọc file, không nhớ. Ngày ghi 2026-09.
+[edit](https://github.com/stoism/stoism.github.io/blob/main/pages/dau-tu-tai-chinh.md)
