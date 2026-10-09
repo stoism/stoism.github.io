@@ -5,7 +5,7 @@ Khung kinh nghiệm. Grok không mở file này mỗi lần gọi skill.
 - Skill gọi file này: `tech-tin-hoc`
 - Đọc khi: việc quá khó, skill Grok không đủ dữ liệu
 - Cập nhật: 2026-10-09
-- Gom từ `pages/huong-dan-merlin-yazfi-vpn-guest.md` vào nhóm bên dưới. File hướng dẫn gốc vẫn để nguyên.
+- Gom từ `pages/huong-dan-merlin-yazfi-vpn-guest.md` ngày 2026-10-09. File hướng dẫn gốc đã xóa.
 
 `#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
