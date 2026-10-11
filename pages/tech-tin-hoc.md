@@ -9,6 +9,38 @@ Khung kinh nghiệm. Grok không mở file này mỗi lần gọi skill.
 
 `#` và `##` là một nhóm. `###` nằm trong nhóm phía trên. Không cần mục lục.
 
+
+---
+
+## Sửa lỗi ghi hình trên máy tính bị màng hình đen
+
+Việc: Sửa lỗi ghi hình trên máy tính bị màng hình đen
+
+Làm:
+1. Cần thiết bị bộ chia HDMI tách HDCP 1 vào 2 ra, kèm theo 2 dây HDMI mới.
+2. Cần card ghi hình HDMI, ví dụ như Ugreen CM489 40189.
+3. Từ cổng HDMI ra của card đồ họa -> kết nối bộ chia HDMI -> ..   
+   -> cổng 1 vào màng hình thông thường  
+   -> cổng 2 kết nối card ghi hình HDMI -> kết nối tới cổng USB máy tính  -> dùng phần mềm như OBS Studio ghi hình & âm thanh từ nguồn thiết bị là "card ghi hình"  
+ 
+Lợi ích khác: Ngoài ra, có thể kết nối theo thứ tự sau để dùng thiết bị thứ 2 phát âm thanh & hình ảnh: Từ cổng HDMI thứ 2 ra của card đồ họa -> card ghi hình HDMI -> thiết bị 2 -> dùng phần mềm (VLC) mở chức năng thu hình & âm thanh từ "card ghi hình HDMI"  
+
+
+---
+
+## Tạo tài khoản Facebook Hoa Kỳ (Mỹ)
+
+Việc: tạo tài khoảng facebook  
+
+Kinh nghiệm:  
+- Tạo bằng email alias lạ sẽ bị đòi xác minh người thật ngay. Nên dùng email lớn như google.com, outlook.com, icloud.com.  
+- Không nên tự khai nhiều thông tin cho Facebook như số điện thoại, khi Facebook check "sự hợp lý" thì rủi ro là thông tin không khớp, sẽ bị đòi xác minh người thật. Chú ý thông tin trên máy tạo tài khoản phải khớp như: IP, múi giờ, ngôn ngữ bàn phím, ngôn ngữ máy.
+- Tạo bằng trình duyệt sẽ ít bị Facebook thu thập "dấu vân tay thiết bị" hơn là qua ứng dụng.
+- Tạo thành không, không nên tương tác, kết bạn, follow nhanh, Facebook sẽ phát hiện là spam. Cố gắn hành động chậm rãi khoảng 1 tháng.
+
+
+---
+
 ## Hai Wi-Fi Merlin: mạng nhà và mạng Guest đi VPN
 
 Việc: điện thoại đổi tên Wi-Fi là đổi đường ra internet. Mạng chính đi nhà mạng. Mạng Guest đi VPN. Bài này lấy OpenVPN, ví dụ máy chủ Mỹ, firmware Asuswrt-Merlin 3004.388 (ví dụ RT-AX68U).
@@ -109,20 +141,6 @@ Hỏi trước khi vá: firmware và Operation mode; IP máy `.50` hay `.51`; `Y
 - Không gồm chia sẻ tài khoản VPN hay lách kiểm duyệt.
 
 Thiếu dữ liệu: chưa đo lại trên firmware 3006.
-
-## Sửa lỗi ghi hình trên máy tính bị màng hình đen
-
-Việc: Sửa lỗi ghi hình trên máy tính bị màng hình đen
-
-Làm:
-1. Cần thiết bị bộ chia HDMI tách HDCP 1 vào 2 ra, kèm theo 2 dây HDMI mới.
-2. Cần card ghi hình HDMI, ví dụ như Ugreen CM489 40189.
-3. Từ cổng HDMI ra của card đồ họa -> kết nối bộ chia HDMI -> ..   
-   -> cổng 1 vào màng hình thông thường  
-   -> cổng 2 kết nối card ghi hình HDMI -> kết nối tới cổng USB máy tính  -> dùng phần mềm như OBS Studio ghi hình & âm thanh từ nguồn thiết bị là "card ghi hình"  
- 
-Lợi ích khác: Ngoài ra, có thể kết nối theo thứ tự sau để dùng thiết bị thứ 2 phát âm thanh & hình ảnh: Từ cổng HDMI thứ 2 ra của card đồ họa -> card ghi hình HDMI -> thiết bị 2 -> dùng phần mềm (VLC) mở chức năng thu hình & âm thanh từ "card ghi hình HDMI"  
-
 
 
 ## Example
