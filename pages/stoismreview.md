@@ -1,5 +1,23 @@
 # Stoism review (đánh giá)
 
+## Đăng ký myfans.jp
+created: 2026-10-01  
+- Có thể thanh toán bằng thẻ Mastercard Việt Nam.  
+- Khi mua phải xác nhận OTP bằng số điện thoại, số Việt Nam xài được, không thấy hỏi lại về sau.  
+- Phí đăng ký gói 3 tháng = 6631 yên/tháng * 3 tháng = 19893 yên  
+- Phí giao dịch qua thẻ 10% = 19893 * (100% + 10%) ≈ 21882 yên  
+- Phí ngân hàng thu (tùy thẻ gồm phí giao dịch, chuyển đổi ngoại tệ) = 21882 yên * ???  
+- Không đăng ký Premium thì video tối đa chỉ 360p, đăng ký thì tùy diễn viên, của tôi xem được 1080p  
+- Phí đăng ký premium 1980 yên/tháng (xài thử 2 tuần đầu) ≈ 0 đồng. Tức gói của myfans riêng, gói của diễn viên riêng.  
+- Các video không có bảo vệ, các extension dễ dàng tải xuống.  
+- Chú ý: subscription như vậy không phải video hay hình nào của diễn viên cũng xem được. Đăng ký gói phù hợp mới xem được đúng video mình cần.  
+- Kênh myfans giống như studio, có thể có nhiều diễn viên, không giống như onlyfans. Cân nhắc chỉ muốn xem video cụ thể thì không cần đăng ký gói xem hết, chỉ cần mua riêng video đó giá rẻ hơn.  
+- Video có che mờ vùng kín.  
+- Trải nghiệm:  
++ Ngôn ngữ mặc định là tiếng Nhật, phải chuyển thủ công sang tiếng Anh khá bất tiện.  
++ Video đang xem hay lag bị lỗi 404, phải tải lại trang quá khó chịu.  
++ Tôi xem các preview trên mạng thấy diễn viên đẹp nên đăng ký, khi xem xong thì thấy mức giá không tương xứng, không thú vị hơn video jav chuyên nghiệp.  
+
 
 ## Về tài khoản Facebook Hoa Kỳ (Mỹ)
 created: 2026-07-23  
